@@ -1,0 +1,79 @@
+/* Team Colors */
+:root,
+::backdrop {
+  /* Default (light) theme */
+    --teamred: #EE0000;
+    --teamblue: #6161FF;
+    --teamgreen: #008A00;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  :root,
+  ::backdrop {
+    --teamred: #FF7878;
+    --teamblue: #7878FF;
+    --teamgreen: #78FF78;
+  }
+}
+
+.teamred{
+  color: var(--teamred);
+}
+
+.teamblue {
+  color: var(--teamblue)
+}
+
+.teamgreen {
+  color: var(--teamgreen);
+}
+
+.rbg {
+  display: flex; 
+  justify-content: space-between; 
+  align-items: flex-end;
+  flex-wrap: wrap;
+}
+
+.rbg > p {
+  min-width: fit-content;
+}
+
+.menu-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.menu-item {
+    list-style-type: none;
+    margin: 0 15px;
+}
+
+.menu-item a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s;
+}
+
+.menu-item a:hover {
+    color: var(--accent);
+}
+
+/* hidden menu */
+.hidden {
+  display: none;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: all 0.3s;
+}
+.hidden:target, .hidden:has(*:target) {
+  display: block;
+  visibility: visible;
+  opacity: 1;
+  pointer-events: auto;
+}
