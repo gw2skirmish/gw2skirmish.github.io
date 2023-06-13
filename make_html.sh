@@ -43,6 +43,7 @@ worlds_id_eu=$(
 make_list_matches() {
     echo "<a href=\"#matches\">⚔️ Matches</a>"
     echo "<a href=\"#worlds\">🌐 Worlds</a>"
+    echo "<a href=\"gw2claims.html\">🚩 gw2claims</a>"
     echo "<div class=\"hidden\" id=\"matches\">"
     echo "<ul>"
     for match_id in $matches_id; do
@@ -389,6 +390,133 @@ make_index() {
 </html>'
 }
 
+# gw2claims
+
+load_json() {
+SRC="."
+DST="."
+GW2_WORLDS_URL="https://api.guildwars2.com/v2/worlds?ids=all"
+GW2_WORLDS_FILE="$DST/worlds.json"
+GW2_MATCHES_URL="https://api.guildwars2.com/v2/wvw/matches?ids=all"
+GW2_MATCHES_FILE="$DST/matches.json"
+#	[ -f "$GW2_WORLDS_FILE" ] || \
+	wget --quiet --output-document="$GW2_WORLDS_FILE" "$GW2_WORLDS_URL"
+#	[ -f "$GW2_MATCHES_FILE" ] || \
+	wget --quiet --output-document="$GW2_MATCHES_FILE" "$GW2_MATCHES_URL"
+	worlds_json="$(jq --compact-output '.[]' "$GW2_WORLDS_FILE")"
+	matches_json="$(jq --compact-output '.[]' "$GW2_MATCHES_FILE")"
+}
+
+update_objectives_json() {
+
+  objectives="$(
+    for match_json in $matches_json; do
+      matchid="$(echo "$match_json" | jq -r '.id')"
+      
+        echo "$match_json" \
+        | jq -c '
+          .maps[].objectives[]
+          |select(.type|contains("Keep","Tower","Camp"))
+          |select(.claimed_by!=null)
+          |{"id":"matchid","owner":.owner,"guild":.claimed_by}
+        ' \
+        | sed "s/matchid/$matchid/g" \
+        | sort \
+        | uniq -c \
+        | sed 's/ {"id"/,"id"/g' \
+        | sed 's/^ */{"count":/g' \
+        | jq -sc '
+          sort_by(
+            .id,
+            .color,
+            .count
+          )
+          | .[]
+          | {
+            "id":.id,
+            "owner":.owner,
+            "guild":.guild,
+            "count":.count
+          }
+        '
+      
+    done
+    
+  )"
+    
+  for objective in $objectives; do
+    id="$(echo $objective | cut -d'"' -f4)"
+    owner="$(echo $objective | cut -d'"' -f8)"
+    guild="$(echo $objective | cut -d'"' -f12)"
+    count="$(echo $objective | cut -d'"' -f15 | tr -d ':}')"
+    result="$(
+      grep "$guild" objectives.json \
+      | grep "$owner" \
+      | grep "$id"
+    )"
+    if [ -z "$result" ]; then
+      echo "$objective" >> objectives.json
+      if [ -z "$(grep $guild guilds.json)" ]; then 
+        curl "https://api.guildwars2.com/v2/guild/$guild" | jq -c >> guilds.json
+      fi
+    else
+      resultcount="$(echo $result | cut -d'"' -f15 | tr -d ':}')"
+      newcount="$(( resultcount + count ))"
+      newresult="$(echo "{\"id\":\"$id\",\"owner\":\"$owner\",\"guild\":\"$guild\",\"count\":$newcount}")"
+      sed -i "s/$result/$newresult/g" objectives.json
+    fi
+  done
+    
+}
+
+display_guild_ids() {
+  echo '<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>gw2claims</title><link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css"></head><body><header><h1>gw2claims</h1></header><main>'
+  for match_json in $matches_json; do   
+    id=$(echo "$match_json" | jq -r .id);
+    echo "<article><h2 id=\""$id"\">"$id"</h2>"
+    for owner in Red Blue Green; do
+      echo "<details open><summary>"$id" "$owner"</summary><pre>"
+      list="$(
+        grep \"$id\" objectives.json | grep "$owner" | sort | jq -sc 'sort_by(.count)|reverse|.[]'
+      )"
+      for line in $list; do 
+        guildfilter="$(echo $line | cut -d'"' -f12)"
+        count="$(echo $line | cut -d'"' -f15 | tr -d ':}')"
+        guildname="$(grep $guildfilter guilds.json \
+        | cut -d'"' -f 8,12-13 \
+        | sed 's/"[,}]$/]/g' \
+        | sed 's/"/ [/g' \
+        | sed 's/  */ /g' \
+        | sed 's/^ *//g')"
+        printf "$count\t$guildname\n"
+      done
+      echo "</pre></details>"
+    done
+    echo "</article>"
+  done
+  echo "</main><footer><p>Fin.</p></footer></body></html>"
+}
+
+build_html() {
+  display_guild_ids > gw2claims.html.tmp
+  sed -i "s/2-1 Red/2-1 Red Stonefall/g" gw2claims.html.tmp
+  sed -i "s/2-1 Blue/2-1 Blue Thornwatch/g" gw2claims.html.tmp
+  sed -i "s/2-1 Green/2-1 Green Skrittsburgh/g" gw2claims.html.tmp
+  sed -i "s/2-2 Red/2-2 Red Fortune's Vale/g" gw2claims.html.tmp
+  sed -i "s/2-2 Blue/2-2 Blue Titan's Staircase/g" gw2claims.html.tmp
+  sed -i "s/2-2 Green/2-2 Green Moogooloo/g" gw2claims.html.tmp
+  sed -i "s/2-3 Red/2-3 Red Giant's Rise/g" gw2claims.html.tmp
+  sed -i "s/2-3 Blue/2-3 Blue Grenth's Door/g" gw2claims.html.tmp
+  sed -i "s/2-3 Green/2-3 Green Reaper's Corridor/g" gw2claims.html.tmp
+  sed -i "s/2-4 Red/2-4 Red Silent Woods/g" gw2claims.html.tmp
+  sed -i "s/2-4 Blue/2-4 Blue First Haven/g" gw2claims.html.tmp
+  sed -i "s/2-4 Green/2-4 Green Phoenix Dawn/g" gw2claims.html.tmp
+  sed -i "s/2-5 Red/2-5 Red Dragon's Claw/g" gw2claims.html.tmp
+  sed -i "s/2-5 Blue/2-5 Blue Griffonfall/g" gw2claims.html.tmp
+  sed -i "s/2-5 Green/2-5 Green Seven Pines/g" gw2claims.html.tmp
+  mv gw2claims.html.tmp gw2claims.html
+}
+
 # exec
 make_index \
 | sed s/'>1-'/'>🇺🇸 1-'/g \
@@ -404,5 +532,11 @@ make_index \
 | sed s/:blue:/🔵/g \
 | sed s/:green:/🟢/g \
 > index.html
+
+# exec for gw2claims
+load_json
+update_objectives_json
+build_html
+
 rm worlds.json
 rm matches.json
