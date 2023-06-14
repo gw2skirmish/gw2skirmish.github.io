@@ -448,7 +448,7 @@ update_objectives_json() {
     id="$(echo $objective | cut -d'"' -f4)"
     owner="$(echo $objective | cut -d'"' -f8)"
     guild="$(echo $objective | cut -d'"' -f12)"
-    count="$(echo $objective | cut -d'"' -f15 | tr -d ':}')"
+    count="$(echo $objective | cut -d'"' -f15 | tr -d ':}{ ')"
     result="$(
       grep "$guild" objectives.json \
       | grep "$owner" \
@@ -460,7 +460,7 @@ update_objectives_json() {
         curl "https://api.guildwars2.com/v2/guild/$guild" | jq -c >> guilds.json
       fi
     else
-      resultcount="$(echo $result | cut -d'"' -f15 | tr -d ':}')"
+      resultcount="$(echo $result | cut -d'"' -f15 | tr -d ':}{ ')"
       newcount="$(( resultcount + count ))"
       newresult="$(echo "{\"id\":\"$id\",\"owner\":\"$owner\",\"guild\":\"$guild\",\"count\":$newcount}")"
       sed -i "s/$result/$newresult/g" objectives.json
@@ -481,7 +481,7 @@ display_guild_ids() {
       )"
       for line in $list; do 
         guildfilter="$(echo $line | cut -d'"' -f12)"
-        count="$(echo $line | cut -d'"' -f15 | tr -d ':}')"
+        count="$(echo $line | cut -d'"' -f15 | tr -d ':}{ ')"
         guildname="$(grep $guildfilter guilds.json \
         | cut -d'"' -f 8,12-13 \
         | sed 's/"[,}]$/]/g' \
