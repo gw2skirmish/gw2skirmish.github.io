@@ -3248,3 +3248,416 @@
 {"id":"001E7824-78CF-E411-9621-AC162DAE8ACD","name":"Disciples Of The New Order","tag":"ORDR","emblem":{"background":{"id":13,"colors":[9]},"foreground":{"id":164,"colors":[673,443]},"flags":[]}}
 {"id":"247AD023-F7FC-E311-BB46-80C16E7C6D65","name":"Those Who Fell","tag":"RISE","emblem":{"background":{"id":22,"colors":[584]},"foreground":{"id":147,"colors":[584,137]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
 {"id":"6CB56DCE-E667-E811-81A8-B6E8A5762A52","name":"Chícken Noodle","tag":"SOUP","emblem":{"background":{"id":2,"colors":[130]},"foreground":{"id":129,"colors":[71,584]},"flags":[]}}
+{"id":"3E9E6758-EB89-46B4-ACF6-4FDC7F1F8E65","name":"Real Nerdy Gamers","tag":"RnG","emblem":{"background":{"id":2,"colors":[125]},"foreground":{"id":167,"colors":[443,121]},"flags":[]}}
+{"id":"CABC428E-FD2B-E911-81B7-AD7CCA945DAC","name":"Hirvió Por Nuestros Pecados","tag":"FSM","emblem":{"background":{"id":6,"colors":[11]},"foreground":{"id":108,"colors":[9,443]},"flags":[]}}
+{"id":"DD528365-4B2D-4E49-B212-FDB74E0D9E0C","name":"Zomboys","tag":"zBoy","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":62,"colors":[473,93]},"flags":[]}}
+{"id":"8B4A16C1-1E4B-E511-AEFB-AC162DC05865","name":"Rúndiamhair Roisin Dubh","tag":"Tara","emblem":{"background":{"id":8,"colors":[617]},"foreground":{"id":84,"colors":[584,473]},"flags":[]}}
+{"id":"A45A4790-91D2-4CAB-B1D6-E661CF6F9ED3","name":"School Of Pellinor","tag":"Mae"}
+{"id":"D518B0B6-6781-E311-A53D-AC162DC028B5","name":"War Corporation","tag":"WaCo","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":8,"colors":[146,71]},"flags":[]}}
+{"id":"EC01F77E-22F9-42B4-A479-E17666504FCD","name":"Hüter Des Tröt","tag":"HdT","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":70,"colors":[443,584]},"flags":[]}}
+{"id":"111D7C55-99AE-E811-81A8-CD1049069AE5","name":"Legion Walhalla","tag":"LW","emblem":{"background":{"id":21,"colors":[132]},"foreground":{"id":30,"colors":[146,584]},"flags":["FlipForegroundVertical"]}}
+{"id":"BE9E5060-17E4-E611-80D3-AC162DC0847D","name":"Voices Of The Air","tag":"VotA","emblem":{"background":{"id":22,"colors":[137]},"foreground":{"id":195,"colors":[27,137]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"7E95518D-310F-E711-80DA-101F7433AF15","name":"Alpha Wölves","tag":"aW","emblem":{"background":{"id":27,"colors":[473]},"foreground":{"id":53,"colors":[130,130]},"flags":[]}}
+{"id":"33C79BF0-28AE-45B4-A6DE-8D55CD67BA58","name":"Whispering Shadow","tag":"WS","emblem":{"background":{"id":1,"colors":[11]},"foreground":{"id":190,"colors":[71,112]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"F7B1B81C-A38D-ED11-8465-02315AB41281","name":"Sons Of Scandinava","tag":"SOS","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":194,"colors":[473,443]},"flags":[]}}
+{"id":"2A4687C4-F870-EC11-81B7-C3B1C0E42B51","name":"Mîdnîght","tag":"Crew","emblem":{"background":{"id":22,"colors":[93]},"foreground":{"id":117,"colors":[584,93]},"flags":[]}}
+{"id":"DD6FE5A8-F976-EC11-81A9-971484D88F04","name":"Companion Society Of Tyria","tag":"CSoT","emblem":{"background":{"id":17,"colors":[473]},"foreground":{"id":251,"colors":[146,673]},"flags":[]}}
+{"id":"E998BD02-2244-ED11-81B7-C3B1C0E42B51","name":"We French Kissed Your","tag":"Mum","emblem":{"background":{"id":7,"colors":[376]},"foreground":{"id":182,"colors":[146,443]},"flags":[]}}
+{"id":"EAF7F60E-61DD-4DE9-ADF6-1892924B01EE","name":"Les Valerius","tag":"VAL","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":302,"colors":[584,121]},"flags":[]}}
+{"id":"0205575D-1AEC-E411-AA11-AC162DAAE275","name":"La Confrérie Du Pacte","tag":"PACT","emblem":{"background":{"id":19,"colors":[114]},"foreground":{"id":122,"colors":[443,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"A0EDAC34-B6C4-4E79-97AD-9B64994889EC","name":"Die Bier Gang","tag":"DBG","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":15,"colors":[146,443]},"flags":[]}}
+{"id":"B28FBF1C-58C3-EA11-81A8-E944283D67C1","name":"The House Of Raptors","tag":"THOR","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":257,"colors":[71,443]},"flags":[]}}
+{"id":"649FEE49-D6CC-E511-80D3-E4115BE8BBE8","name":"Zergs Rebellion","tag":"Zerg","emblem":{"background":{"id":21,"colors":[473]},"foreground":{"id":170,"colors":[473,443]},"flags":[]}}
+{"id":"6DA74D30-68C3-4693-B3F4-8DA76AF12BAA","name":"V M E","tag":"VME","emblem":{"background":{"id":26,"colors":[673]},"foreground":{"id":14,"colors":[443,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"791EE200-C177-E711-80E4-AC162DC04865","name":"Tanz Den Zeus","tag":"TDZ","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":167,"colors":[146,443]},"flags":[]}}
+{"id":"6155A6A6-A68A-E311-8D3D-AC162DC0A8ED","name":"Die Alten Strolche","tag":"DaS","emblem":{"background":{"id":23,"colors":[584]},"foreground":{"id":135,"colors":[71,584]},"flags":[]}}
+{"id":"39A9C2FC-D6BE-495B-89B6-FDEBF6A7CB4F","name":"Ex Tenebris Ad Lucem ","tag":"LUX","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":144,"colors":[443,146]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"4DA09161-C9EC-E711-81A1-0234DC5E07D2","name":"Obscuritas Draconis","tag":"OD","emblem":{"background":{"id":2,"colors":[4]},"foreground":{"id":60,"colors":[443,9]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"52F80045-AD62-4DD0-A9A6-274DC9F2A1B6","name":"Secret Society Service","tag":"SSSh","emblem":{"background":{"id":27,"colors":[9]},"foreground":{"id":138,"colors":[443,673]},"flags":[]}}
+{"id":"6882F405-FACD-ED11-81A9-8FB5CFBE7766","name":"Crystal Clarity","tag":"CC","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":199,"colors":[473,11]},"flags":[]}}
+{"id":"9048023D-E0A1-E311-8290-AC162DAE0BED","name":"House Of Bree","tag":"HoB","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":136,"colors":[146,146]},"flags":[]}}
+{"id":"29D1CE87-F3AD-E811-81A8-F161567B2263","name":"Tails And Paws","tag":"boop","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":280,"colors":[443,4]},"flags":[]}}
+{"id":"CD1E8D06-20A2-E511-80D4-E4115BDFCB5D","name":"The Firestorm Program","tag":"FSP","emblem":{"background":{"id":23,"colors":[71]},"foreground":{"id":105,"colors":[71,584]},"flags":[]}}
+{"id":"3B9ED7E6-AA08-4575-A5C1-AACD169BB2E1","name":"Army Of Twelve Monkeys","tag":"AoTM","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":8,"colors":[146,673]},"flags":[]}}
+{"id":"016D9407-EDBB-EA11-81A8-83C7278578E0","name":"Stressin","tag":"PPT","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":249,"colors":[112,617]},"flags":[]}}
+{"id":"1FFDEA07-3848-4181-9751-1012E517A0D6","name":"Raven Hollow","tag":"RVN","emblem":{"background":{"id":23,"colors":[11]},"foreground":{"id":52,"colors":[473,146]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"DF5567A2-AB1B-EA11-81B1-D0069C08C942","name":"Strictly Riba","tag":"RIBA","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":282,"colors":[146,584]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"FCC4FFE7-BC0E-E711-80D4-E4115BE8E905","name":"Ride Me Baby","tag":"PONY","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":165,"colors":[146,443]},"flags":[]}}
+{"id":"FF065531-016E-ED11-81A9-8FB5CFBE7766","name":"Egg Melee Train","tag":"Egg","emblem":{"background":{"id":27,"colors":[443]},"foreground":{"id":119,"colors":[64,64]},"flags":[]}}
+{"id":"3A65DCA6-2E2F-4F87-85C2-B49A1F5DC996","name":"Fluffy Bunnies Of Death","tag":"FBD","emblem":{"background":{"id":7,"colors":[473]},"foreground":{"id":256,"colors":[673,443]},"flags":[]}}
+{"id":"6D170D79-EA9E-E511-80D4-E4115BD19D24","name":"Tyrs Paladium","tag":"TYRS","emblem":{"background":{"id":23,"colors":[64]},"foreground":{"id":21,"colors":[673,673]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"94AF26EF-E505-47F5-9F1A-1D03E83A1E70","name":"Warband Of Absolute Retribution","tag":"WäR","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":76,"colors":[71,473]},"flags":[]}}
+{"id":"10987F8A-7273-4454-9F72-5D68043AA9C4","name":"Pinchin Loafs","tag":"PLAD","emblem":{"background":{"id":7,"colors":[137]},"foreground":{"id":252,"colors":[48,93]},"flags":[]}}
+{"id":"297C62F1-02F1-E611-80D4-E4115BEBA648","name":"Enlightened Beasts","tag":"Owls","emblem":{"background":{"id":13,"colors":[11]},"foreground":{"id":121,"colors":[64,443]},"flags":[]}}
+{"id":"49248329-1E8F-E611-80D3-AC162DC0847D","name":"Shadow Of Undying Legends","tag":"Soul","emblem":{"background":{"id":19,"colors":[9]},"foreground":{"id":178,"colors":[443,4]},"flags":[]}}
+{"id":"65848E6F-6541-E411-863C-E4115BDF481D","name":"Regal Phoenix","tag":"RI","emblem":{"background":{"id":1,"colors":[146]},"foreground":{"id":17,"colors":[64,47]},"flags":[]}}
+{"id":"929FAE6E-276B-ED11-8465-068565E44296","name":"The Dancing Choya Gang","tag":"OhNo","emblem":{"background":{"id":21,"colors":[146]},"foreground":{"id":249,"colors":[584,617]},"flags":[]}}
+{"id":"B1E7F82E-C44E-4F31-99EB-D91F056231EB","name":"Lost Regiment","tag":"LoRe","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":33,"colors":[64,584]},"flags":[]}}
+{"id":"3E9A80AD-F767-EB11-81A8-F161567B2263","name":"Spirits Of Chaos","tag":"SoC","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":40,"colors":[93,9]},"flags":[]}}
+{"id":"063AC145-67D5-4CF1-84FB-936B9DCB00E4","name":"Cry For Valor Divinity","tag":"Cry","emblem":{"background":{"id":10,"colors":[473]},"foreground":{"id":164,"colors":[27,584]},"flags":[]}}
+{"id":"2543D764-133D-45E4-A4E8-4A603C625FCA","name":"Ice Cold Elements","tag":"ICE","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":16,"colors":[443,27]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"86F78482-A496-ED11-81A9-971484D88F04","name":"Mismatch Travelers","tag":"MT"}
+{"id":"A74D2B65-C2ED-E411-AA11-AC162DAAE275","name":"Mistforged Heroes","tag":"HERO","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":60,"colors":[584,443]},"flags":[]}}
+{"id":"DE7030FC-0316-46F9-B05D-A2C2C27D0D89","name":"Empyrean Knights","tag":"EK","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":85,"colors":[443,11]},"flags":["FlipForegroundVertical"]}}
+{"id":"192FE381-4650-E511-A34A-E4115BDF481D","name":"Dark Tower Vanguard","tag":"SLAY","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":292,"colors":[114,473]},"flags":[]}}
+{"id":"115DA4BB-4670-E611-80D3-441EA14F1E40","name":"Dragon Slayers Of Eternal Fire","tag":"DSEF","emblem":{"background":{"id":21,"colors":[584]},"foreground":{"id":166,"colors":[71,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"1B7FD452-1FAF-419A-AD0C-D8D16FEF26C5","name":"Kodash Karmatrain","tag":"AG","emblem":{"background":{"id":7,"colors":[11]},"foreground":{"id":49,"colors":[125,443]},"flags":[]}}
+{"id":"14E7C862-4AD6-46D6-9F0A-6867E9D818E9","name":"The Dynasty Warriors","tag":"DW","emblem":{"background":{"id":11,"colors":[93]},"foreground":{"id":44,"colors":[64,146]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"D3C86AED-F143-E711-80D4-E4115BDFF975","name":"Confusion And Disorder","tag":"HvoC","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":118,"colors":[47,443]},"flags":[]}}
+{"id":"519B41DC-D349-4B5A-A961-9D6DA022076A","name":"Diamond Pirates","tag":"DP","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":126,"colors":[443,443]},"flags":[]}}
+{"id":"FC528F7C-8BB4-E511-80D3-AC162DC0847D","name":"Flauschcraft","tag":"FLC","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":167,"colors":[9,121]},"flags":[]}}
+{"id":"5490139B-E462-4A3F-ACC3-FC64C6B67D48","name":"Army Of One Shadow","tag":"One","emblem":{"background":{"id":21,"colors":[584]},"foreground":{"id":199,"colors":[146,11]},"flags":[]}}
+{"id":"16EE8EE5-0501-E711-80D3-E4115BE8BBE8","name":"La Fundacion","tag":"LF","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":40,"colors":[71,71]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"A49ED0C5-D19B-4FE2-ACBE-55D43198D429","name":"Peace Maker","tag":"PmK","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":22,"colors":[443,673]},"flags":[]}}
+{"id":"B9C20B4B-F90C-4CE1-A2C0-79B42CE8F4D5","name":"Kinder Des Sturms","tag":"KdS","emblem":{"background":{"id":27,"colors":[137]},"foreground":{"id":199,"colors":[121,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"BFFF218F-C642-EB11-81A8-E944283D67C1","name":"The Cuddling Plush Griffon","tag":"Jump","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":246,"colors":[27,584]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"8DB9A1F2-578F-4C22-A729-EEA017185311","name":"Disciples Of Mandy","tag":"DoM","emblem":{"background":{"id":21,"colors":[47]},"foreground":{"id":32,"colors":[93,443]},"flags":[]}}
+{"id":"3E1CE5C0-83A4-E311-A32A-E4115BDFA895","name":"Running From The","tag":"COPS","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":164,"colors":[121,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"A8FD5C4C-1602-4F24-8246-7B2DB1497E34","name":"Adventures In The Myst","tag":"Myst","emblem":{"background":{"id":22,"colors":[93]},"foreground":{"id":118,"colors":[146,93]},"flags":[]}}
+{"id":"404306DD-5B54-E511-9021-E4115BDFA895","name":"Unicorn Express","tag":"PONY","emblem":{"background":{"id":7,"colors":[121]},"foreground":{"id":48,"colors":[443,47]},"flags":[]}}
+{"id":"7DBD18ED-8168-E811-81A9-DC92C488388A","name":"Salad Gang","tag":"SaGa","emblem":{"background":{"id":2,"colors":[11]},"foreground":{"id":45,"colors":[584,617]},"flags":[]}}
+{"id":"27B812AB-BB26-E511-A34A-E4115BDF481D","name":"The Snow Rose Rebellion","tag":"Snow","emblem":{"background":{"id":23,"colors":[139]},"foreground":{"id":112,"colors":[443,71]},"flags":[]}}
+{"id":"A9E81FC4-1759-E811-81A8-E8B6963692B8","name":"Mapaches Contra Tyria","tag":"MvsT","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":112,"colors":[443,617]},"flags":[]}}
+{"id":"8B1508B8-E9A9-4AE1-BB55-F0BD126AAEE8","name":"The Legends Of Asgard","tag":"TLoA","emblem":{"background":{"id":2,"colors":[137]},"foreground":{"id":60,"colors":[443,673]},"flags":[]}}
+{"id":"541247D7-2282-E711-80D5-E4115BE8BBE8","name":"Armageddon Sc","tag":"ARMA","emblem":{"background":{"id":14,"colors":[443]},"foreground":{"id":48,"colors":[443,27]},"flags":[]}}
+{"id":"1C9B5CF0-EDB5-4A7C-AFAD-E7EA44AE1CB7","name":"La Légion De Sokaris","tag":"SKR","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":74,"colors":[673,71]},"flags":[]}}
+{"id":"CACB1ACC-747B-4FF6-B8E0-8BA695DE4F43","name":"New Legends Of Might And Mystic","tag":"NLMM","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":84,"colors":[673,673]},"flags":["FlipBackgroundVertical"]}}
+{"id":"665902A1-D308-EC11-81A8-CDE2AC1EED30","name":"Mystic Quarters","tag":"Mq","emblem":{"background":{"id":23,"colors":[93]},"foreground":{"id":106,"colors":[584,137]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"8EFCD3B8-B1F6-EB11-81A8-B942C6BB2B96","name":"Hoez Kicking Booties","tag":"HoeZ","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":249,"colors":[673,132]},"flags":[]}}
+{"id":"7BE636BA-9AA4-E811-81A8-E8B6963692B8","name":"Der Sechste Orden","tag":"DSO","emblem":{"background":{"id":8,"colors":[443]},"foreground":{"id":3,"colors":[473,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"5B514151-6A98-4F1B-998B-19C756A97DEF","name":"Vampyrs Carpe Noctem","tag":"Vamp","emblem":{"background":{"id":11,"colors":[673]},"foreground":{"id":176,"colors":[443,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"2CCAB120-FF31-EC11-81A8-C983E8889009","name":"Shell Guild","tag":"SHEL","emblem":{"background":{"id":4,"colors":[137]},"foreground":{"id":108,"colors":[114,617]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"7BDFF285-3F45-4849-8F0B-115839FFC40F","name":"Slayer Knightz","tag":"KNTZ","emblem":{"background":{"id":27,"colors":[9]},"foreground":{"id":266,"colors":[443,93]},"flags":[]}}
+{"id":"D654CC54-C276-E911-81A8-C983E8889009","name":"Halcyon Reborn","tag":"RISE","emblem":{"background":{"id":21,"colors":[146]},"foreground":{"id":22,"colors":[673,146]},"flags":[]}}
+{"id":"1DD94551-45EC-4C25-AB5D-365B0C665E4F","name":"Gilde Des Einzelkämpfers","tag":"GDE","emblem":{"background":{"id":22,"colors":[71]},"foreground":{"id":294,"colors":[473,71]},"flags":[]}}
+{"id":"6ABB97F6-3CE4-4D35-9077-1A198A35DCB7","name":"Cherry Tea","tag":"CT","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":21,"colors":[27,443]},"flags":[]}}
+{"id":"1A408543-3A96-4E64-B138-4A0D2AE91419","name":"Consilium Dei","tag":"CD","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":76,"colors":[71,93]},"flags":["FlipBackgroundVertical"]}}
+{"id":"B4B12E41-4F1E-EC11-81A8-B942C6BB2B96","name":"Dixieland Jazz","tag":"JAZZ","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":136,"colors":[146,146]},"flags":[]}}
+{"id":"12C83547-817D-E411-A3E6-AC162DC0E835","name":"NO MOM I CAN'T PAUSE AN ONLINE","tag":"GAME","emblem":{"background":{"id":16,"colors":[673]},"foreground":{"id":158,"colors":[64,584]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"9FA0B892-8EBA-EA11-81B1-D0069C08C942","name":"Phoenix Of Storms","tag":"PoS","emblem":{"background":{"id":24,"colors":[673]},"foreground":{"id":17,"colors":[673,146]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"5957BCBA-3297-44D6-B546-AA0761AEBB20","name":"League Of Miscellaneous Intent","tag":"Misc","emblem":{"background":{"id":2,"colors":[137]},"foreground":{"id":240,"colors":[443,584]},"flags":["FlipBackgroundVertical"]}}
+{"id":"01798B5F-8D30-E411-9621-AC162DAE8ACD","name":"Alias Zeus","tag":"DIAS","emblem":{"background":{"id":23,"colors":[93]},"foreground":{"id":23,"colors":[146,584]},"flags":[]}}
+{"id":"42F86AF6-9499-EA11-81B7-AD7CCA945DAC","name":"Wrath Of The Eternal Lords","tag":"Lord","emblem":{"background":{"id":22,"colors":[11]},"foreground":{"id":60,"colors":[443,673]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"BD2F84CA-5553-EA11-81A8-F161567B2263","name":"Order Of The Crystal Oath","tag":"Oath","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":302,"colors":[93,93]},"flags":[]}}
+{"id":"73E419DB-2C4C-E411-9621-AC162DAE8ACD","name":"Ways To The Grave","tag":"WttG","emblem":{"background":{"id":7,"colors":[121]},"foreground":{"id":126,"colors":[584,64]},"flags":[]}}
+{"id":"B5BC41D9-7520-E711-80D3-AC162DC0847D","name":"Scared Of Cute Quaggans","tag":"COO","emblem":{"background":{"id":21,"colors":[125]},"foreground":{"id":167,"colors":[121,125]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"DC3C7B89-4BFA-E611-80D4-E4115BDFF975","name":"Celestial Wings Of Silver","tag":"SLVR","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":23,"colors":[93,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"FC113C5C-C29D-4906-90E8-E0362A8BAC96","name":"Torpedo","tag":"TO","emblem":{"background":{"id":13,"colors":[9]},"foreground":{"id":10,"colors":[443,146]},"flags":[]}}
+{"id":"41872BBD-41A7-44A2-97A4-7B69B9D0B21B","name":"Solamnische Ritter","tag":"SR","emblem":{"background":{"id":22,"colors":[146]},"foreground":{"id":85,"colors":[584,137]},"flags":["FlipForegroundVertical"]}}
+{"id":"94AAB11B-B05A-E611-80D3-441EA14F1E40","name":"A Magic Journey Inc","tag":"AMJI","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":167,"colors":[137,132]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"DF08E92D-9B36-ED11-81B2-A840610878B3","name":"Bundle Of Joy","tag":"Joy","emblem":{"background":{"id":24,"colors":[673]},"foreground":{"id":249,"colors":[146,443]},"flags":[]}}
+{"id":"EB2966D0-2E51-EC11-81A8-B942C6BB2B96","name":"The Legend Of Charr","tag":"TLOC","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":143,"colors":[443,473]},"flags":[]}}
+{"id":"A2581AFA-FE69-4838-A362-165D4A9B70A7","name":"Polly And Weirdos Clubhouse","tag":"Dumb","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":152,"colors":[673,121]},"flags":[]}}
+{"id":"30E4F132-B760-ED11-8465-0228F2FB5E53","name":"Casa Del Dragon","tag":"DRAK","emblem":{"background":{"id":20,"colors":[4]},"foreground":{"id":190,"colors":[673,93]},"flags":["FlipBackgroundVertical"]}}
+{"id":"BB27ACC3-C4D3-4A58-AACB-70953276959A","name":"The Pond","tag":"Pond","emblem":{"background":{"id":20,"colors":[9]},"foreground":{"id":66,"colors":[146,112]},"flags":[]}}
+{"id":"41001150-3C95-E411-9621-AC162DAE8ACD","name":"Guardian Angel Tyrian Explorers","tag":"GATE","emblem":{"background":{"id":22,"colors":[146]},"foreground":{"id":85,"colors":[9,443]},"flags":["FlipForegroundVertical"]}}
+{"id":"F898CA19-3088-479C-B2FA-D41994591FF4","name":"Love Ya","tag":"XOXO","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":101,"colors":[443,473]},"flags":[]}}
+{"id":"34D1612D-0435-EC11-81AB-F50023EE1BF3","name":"Quaggan Imperial Space Force","tag":"Qi","emblem":{"background":{"id":27,"colors":[673]},"foreground":{"id":164,"colors":[114,93]},"flags":[]}}
+{"id":"F2EFC34E-07AF-4E45-BFCB-F74553A82422","name":"Les Protecteurs De Tyrie","tag":"LPDT","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":113,"colors":[443,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"8F9FDE9E-FD97-EC11-81B7-AD7CCA945DAC","name":"Dollybutchers","tag":"DB","emblem":{"background":{"id":1,"colors":[146]},"foreground":{"id":105,"colors":[584,146]},"flags":[]}}
+{"id":"E0CD5D6E-64C7-E411-AA11-AC162DAAE275","name":"Dollyhunters","tag":"DB","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":105,"colors":[132,146]},"flags":[]}}
+{"id":"3D40CC1F-2315-4009-AD6C-70590E536BB6","name":"Bendición Oscura","tag":"BO","emblem":{"background":{"id":24,"colors":[11]},"foreground":{"id":17,"colors":[93,64]},"flags":[]}}
+{"id":"73AC40BC-7B2B-E711-80D3-441EA14F1E40","name":"Sentinels Of The Moon","tag":"MOON","emblem":{"background":{"id":27,"colors":[11]},"foreground":{"id":107,"colors":[584,27]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"F0743882-8753-4115-9B1A-535502546D72","name":"Raben Fliegen Frei","tag":"FLaP","emblem":{"background":{"id":1,"colors":[136]},"foreground":{"id":222,"colors":[11,473]},"flags":[]}}
+{"id":"528D8313-BE17-E611-80D3-AC162DC0847D","name":"Indiebang","tag":"GHSS","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":127,"colors":[137,146]},"flags":[]}}
+{"id":"1BE3CF49-0FA1-E711-80D4-E4115BE8E905","name":"Heavy Loot Bag Cosplayers","tag":"Loot","emblem":{"background":{"id":3,"colors":[27]},"foreground":{"id":293,"colors":[64,584]},"flags":[]}}
+{"id":"BDCDF33F-1ADE-E811-81A8-83C7278578E0","name":"Association Of Retired Tyrians","tag":"ART","emblem":{"background":{"id":21,"colors":[584]},"foreground":{"id":170,"colors":[9,673]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"3F294E0E-9CDE-E411-A34A-E4115BDF481D","name":"Shift Of Currents","tag":"TIDE","emblem":{"background":{"id":23,"colors":[9]},"foreground":{"id":58,"colors":[137,473]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"DC84E2AC-6D6F-E511-A34A-E4115BDF481D","name":"Apple Ever After","tag":"NYAN","emblem":{"background":{"id":7,"colors":[473]},"foreground":{"id":167,"colors":[121,673]},"flags":[]}}
+{"id":"4E1EAC74-AD95-4D11-A2F0-4EC7D7074394","name":"Loads Of Fun","tag":"LOAD","emblem":{"background":{"id":23,"colors":[64]},"foreground":{"id":9,"colors":[146,71]},"flags":[]}}
+{"id":"435E990D-E9C5-400E-BD1B-E66B14033842","name":"Sargnägel","tag":"SN","emblem":{"background":{"id":22,"colors":[584]},"foreground":{"id":120,"colors":[584,146]},"flags":[]}}
+{"id":"D7273436-DD11-E511-AF00-AC162DC028B5","name":"Never Watch Back","tag":"NSA","emblem":{"background":{"id":14,"colors":[673]},"foreground":{"id":178,"colors":[673,27]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"68C3CA30-0B56-4994-9D58-7E2EA2E5FF1F","name":"Look Within","tag":"Zen","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":110,"colors":[584,473]},"flags":[]}}
+{"id":"8A88A588-FC51-E611-80D4-E4115BEBA648","name":"Luna Arbitrium","tag":"Lux","emblem":{"background":{"id":7,"colors":[27]},"foreground":{"id":164,"colors":[443,125]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"0458D57C-EFDC-4301-8D00-A7A0DA51AFF8","name":"Sognatori Di Tramonto","tag":"DRMS","emblem":{"background":{"id":2,"colors":[137]},"foreground":{"id":144,"colors":[64,376]},"flags":[]}}
+{"id":"9C443F39-BD4E-403B-A1C0-8685FF51B6EC","name":"My Grand Bank","tag":"MGB","emblem":{"background":{"id":27,"colors":[146]},"foreground":{"id":136,"colors":[673,11]},"flags":[]}}
+{"id":"48ED157D-CC6C-E411-AEFB-AC162DC05865","name":"Come To Us We Got Cookies","tag":"KEKS","emblem":{"background":{"id":27,"colors":[473]},"foreground":{"id":159,"colors":[146,443]},"flags":[]}}
+{"id":"AD517314-5895-4E30-828B-D9B88E07218C","name":"Monster Geek","tag":"MG","emblem":{"background":{"id":3,"colors":[673]},"foreground":{"id":15,"colors":[146,443]},"flags":[]}}
+{"id":"5EDD3ABC-F1FF-EB11-81A9-8FB5CFBE7766","name":"Give Me Some","tag":"SPAŒ","emblem":{"background":{"id":21,"colors":[121]},"foreground":{"id":306,"colors":[121,27]},"flags":[]}}
+{"id":"A3137BEF-31DA-4804-846A-B3073EE7399A","name":"Follow The Wipe Rabbit","tag":"BÄM","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":151,"colors":[4,443]},"flags":[]}}
+{"id":"673C215E-7CC8-E411-8290-AC162DAE0BED","name":"The Iron Blood","tag":"IRON","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":238,"colors":[473,112]},"flags":[]}}
+{"id":"0877F929-1B57-4BCA-BB99-59E43C54E5FB","name":"Unforsaken Warriors","tag":"uW","emblem":{"background":{"id":8,"colors":[114]},"foreground":{"id":3,"colors":[146,93]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"853F0F45-CE7A-E711-80D3-E4115BD7186D","name":"Dollybashers","tag":"DB","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":105,"colors":[9,146]},"flags":[]}}
+{"id":"4D2CA7C6-6472-EC11-81A8-B942C6BB2B96","name":"Celestial Moonlight","tag":"MOON","emblem":{"background":{"id":14,"colors":[443]},"foreground":{"id":117,"colors":[139,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"21C414D2-1B56-E811-81A8-E944283D67C1","name":"Angel Without Wings","tag":"Oni","emblem":{"background":{"id":15,"colors":[473]},"foreground":{"id":56,"colors":[584,48]},"flags":[]}}
+{"id":"5B347E0E-2ACE-4AF5-9B8D-89B22B7FF637","name":"Les Prospecteurs De La Tyrie","tag":"LPLT","emblem":{"background":{"id":22,"colors":[584]},"foreground":{"id":178,"colors":[584,4]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"917D2958-84DC-42DE-9EED-779895C14EC0","name":"International Guild","tag":"INT","emblem":{"background":{"id":2,"colors":[4]},"foreground":{"id":70,"colors":[443,443]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"B9A361B5-EB40-4D76-93DA-23AAAE876ECE","name":"The Shadowcaster","tag":"TSC","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":40,"colors":[443,673]},"flags":[]}}
+{"id":"38E1725B-8BE6-E711-81A1-0234DC5E07D2","name":"Pocketmedics","tag":"Heal","emblem":{"background":{"id":3,"colors":[673]},"foreground":{"id":69,"colors":[584,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"7311DE04-55DD-E811-81A8-E944283D67C1","name":"Sarus Fanclub","tag":"Saru","emblem":{"background":{"id":13,"colors":[71]},"foreground":{"id":34,"colors":[584,473]},"flags":[]}}
+{"id":"2D0DAE4F-260D-4407-B166-CFC726CC5512","name":"Tempus Omnia Revelat","tag":"TOR","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":30,"colors":[443,443]},"flags":[]}}
+{"id":"E0899462-2ABE-43EE-A195-E94D7C2D9A2F","name":"Follow The Icon","tag":"icon","emblem":{"background":{"id":23,"colors":[146]},"foreground":{"id":3,"colors":[71,673]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"EDEB3783-1464-4FC2-9C8E-6EC49DF9B2B5","name":"Les Exclus De L Ordre Celeste","tag":"EDOC","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":46,"colors":[443,93]},"flags":[]}}
+{"id":"BD31194B-F9CA-E911-81A8-83C7278578E0","name":"The Foolish Few","tag":"FF","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":155,"colors":[473,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"B9D8C7C5-FAB4-E611-80DA-101F7433EEAD","name":"Were Coming From Your","tag":"BACK","emblem":{"background":{"id":11,"colors":[11]},"foreground":{"id":144,"colors":[584,673]},"flags":["FlipBackgroundVertical"]}}
+{"id":"FFDE5DE1-60F7-EB11-81A8-A25FC8B1A2FE","name":"The Knights Order I","tag":"TKO","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":53,"colors":[9,27]},"flags":[]}}
+{"id":"38920CD6-4F0F-E411-BB46-80C16E7C6D65","name":"Dungeons And Dragons Forever","tag":"DDF","emblem":{"background":{"id":7,"colors":[71]},"foreground":{"id":126,"colors":[443,93]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"DC69F6CB-6068-E511-AEFB-AC162DC05865","name":"Forsaken Guardians Of The Night","tag":"FGN","emblem":{"background":{"id":11,"colors":[443]},"foreground":{"id":3,"colors":[673,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"15CEC1FA-3286-40B6-B687-1E8F80970C4D","name":"Knights Of The Temple","tag":"KnT","emblem":{"background":{"id":15,"colors":[473]},"foreground":{"id":170,"colors":[673,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"A9781DB5-B1A5-412E-AAF7-DDF274DCF957","name":"Secret Art Corp","tag":"ATSM","emblem":{"background":{"id":3,"colors":[473]},"foreground":{"id":170,"colors":[137,443]},"flags":[]}}
+{"id":"C9E15709-C803-43A0-932B-65A979D11D0F","name":"Último Bastión De Tyria","tag":"ETER","emblem":{"background":{"id":26,"colors":[71]},"foreground":{"id":259,"colors":[443,673]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"AC0AEA33-79FA-EB11-81A8-C983E8889009","name":"Bellum Exsilium","tag":"WAR","emblem":{"background":{"id":23,"colors":[584]},"foreground":{"id":155,"colors":[27,71]},"flags":[]}}
+{"id":"155E8159-EF18-EC11-81AB-8CD3CF4E85AB","name":"The Guard Of Kryta","tag":"TG","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":179,"colors":[146,47]},"flags":[]}}
+{"id":"46F5CA17-D4BC-E511-80D4-E4115BE8E905","name":"The Plum Blossom","tag":"SECT","emblem":{"background":{"id":23,"colors":[443]},"foreground":{"id":199,"colors":[443,473]},"flags":[]}}
+{"id":"97669623-293A-E411-863C-E4115BDF481D","name":"Knights Of The Rose City","tag":"KPDX","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":84,"colors":[132,673]},"flags":[]}}
+{"id":"A8D52232-8EFB-45EC-94EF-91DC044E3A3A","name":"Guardia Del Céfiro","tag":"Gcef","emblem":{"background":{"id":22,"colors":[9]},"foreground":{"id":44,"colors":[9,93]},"flags":[]}}
+{"id":"DADD8C39-BDD7-E411-9021-E4115BDFA895","name":"United Alliance Of Mercenaries","tag":"UnIt","emblem":{"background":{"id":13,"colors":[130]},"foreground":{"id":1,"colors":[130,443]},"flags":[]}}
+{"id":"C0B40C75-6BA0-ED11-8465-0228F2FB5E53","name":"Cat Is A Liquid","tag":"Meow","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":19,"colors":[443,125]},"flags":[]}}
+{"id":"5DBB693F-2D7D-40B4-9D44-FDA9C8E66866","name":"I Fire And Ice I","tag":"FACE","emblem":{"background":{"id":14,"colors":[340]},"foreground":{"id":64,"colors":[673,93]},"flags":[]}}
+{"id":"F41E5C93-BC33-E911-81A8-CD1049069AE5","name":"The Shooting Stars","tag":"Star","emblem":{"background":{"id":11,"colors":[473]},"foreground":{"id":247,"colors":[584,93]},"flags":[]}}
+{"id":"41D95344-A7B1-4636-9F41-FAB40CE2BB60","name":"Momento","tag":"Wait","emblem":{"background":{"id":20,"colors":[473]},"foreground":{"id":77,"colors":[64,71]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"FBBF08A1-CC0B-EC11-81A9-971484D88F04","name":"La Jardinière","tag":"Poco","emblem":{"background":{"id":7,"colors":[48]},"foreground":{"id":249,"colors":[112,132]},"flags":[]}}
+{"id":"318786B2-0CB7-EA11-81AA-D66D0E22CAB6","name":"Spacecamp","tag":"CAMP","emblem":{"background":{"id":7,"colors":[121]},"foreground":{"id":164,"colors":[146,132]},"flags":[]}}
+{"id":"4AE76DB3-F79F-4BE9-8EF3-6578FC83C917","name":"From The Abyss","tag":"FtA","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":28,"colors":[473,11]},"flags":[]}}
+{"id":"9F476A53-D5A2-4A6F-8BB3-A51D6D1A0858","name":"Over Powered People","tag":"oPP","emblem":{"background":{"id":27,"colors":[473]},"foreground":{"id":138,"colors":[146,146]},"flags":[]}}
+{"id":"113FE5B7-1EBA-4E60-A08A-6963BD2AFA5E","name":"Hellenic Phalanx","tag":"HP","emblem":{"background":{"id":23,"colors":[11]},"foreground":{"id":171,"colors":[473,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"A7122172-3C4D-E711-80D3-E83935B5B448","name":"Tretsieweg","tag":"trzw","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":281,"colors":[11,27]},"flags":[]}}
+{"id":"AB4D6361-96A4-E811-81A8-F161567B2263","name":"Of Ashes We Shall Return","tag":"FIRE","emblem":{"background":{"id":20,"colors":[473]},"foreground":{"id":16,"colors":[112,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"58A61BFE-292D-456A-ABE8-8C7D17156243","name":"Mutants","tag":"MU","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":170,"colors":[473,93]},"flags":[]}}
+{"id":"10E426A6-BC4C-EB11-81A8-CDE2AC1EED30","name":"El Club De Las Hydras","tag":"HDs","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":222,"colors":[64,584]},"flags":[]}}
+{"id":"CB328554-BA05-E711-80D4-E4115BE8E905","name":"Les Légendes Tyriennes","tag":"LLT","emblem":{"background":{"id":23,"colors":[112]},"foreground":{"id":40,"colors":[146,673]},"flags":[]}}
+{"id":"121DDD25-A6DD-E611-80D3-AC162DC085C0","name":"Bombing Here Bombing There","tag":"Ez","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":100,"colors":[673,673]},"flags":[]}}
+{"id":"C91D47D4-8BB8-EC11-8465-06D1970130F4","name":"Gravity Wave Of The Nine","tag":"Nine","emblem":{"background":{"id":2,"colors":[27]},"foreground":{"id":294,"colors":[473,112]},"flags":[]}}
+{"id":"D6FE1A28-239D-EA11-81A8-E944283D67C1","name":"Le Conseil Ascalonien","tag":"CA","emblem":{"background":{"id":1,"colors":[71]},"foreground":{"id":3,"colors":[584,93]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"45107EB3-66ED-45B1-B211-042C2B2F17FE","name":"Institut Für Ideensynthese","tag":"RP","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":111,"colors":[673,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"4CA21F60-B08B-EA11-81A8-F161567B2263","name":"Hagakure Dojo","tag":"Zen","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":281,"colors":[673,473]},"flags":[]}}
+{"id":"4697240F-D7B1-EB11-81A8-E944283D67C1","name":"Completely Trash","tag":"cT","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":293,"colors":[584,146]},"flags":[]}}
+{"id":"4BAAD83C-27B4-E711-80D4-E4115BDFF975","name":"Sicarios De Tierra Del Fuego","tag":"STF","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":183,"colors":[112,93]},"flags":[]}}
+{"id":"6102C404-AF17-4723-B85E-1CB62B51B57E","name":"Boss Elimination Service Team","tag":"BEST","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":241,"colors":[673,132]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"496E7D98-5493-4823-AD1F-FA3BA4A076B4","name":"Candy Shop","tag":"CS","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":153,"colors":[47,112]},"flags":[]}}
+{"id":"53FDCDC0-7401-E911-81A8-F161567B2263","name":"Nocturnal Minds","tag":"nox","emblem":{"background":{"id":22,"colors":[146]},"foreground":{"id":245,"colors":[443,112]},"flags":[]}}
+{"id":"52ECAD13-FC02-E511-A2AD-AC162DC0A8ED","name":"She Said She Was","tag":"XVII","emblem":{"background":{"id":3,"colors":[93]},"foreground":{"id":16,"colors":[443,9]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"D14B0CE9-0D8B-E511-A3E6-AC162DC0E835","name":"Systematic Abuse","tag":"SA","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":181,"colors":[443,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal","FlipForegroundVertical"]}}
+{"id":"862861A9-AE54-4146-89CE-21A5D4B78B3B","name":"Internationals","tag":"Mup","emblem":{"background":{"id":22,"colors":[584]},"foreground":{"id":144,"colors":[376,443]},"flags":[]}}
+{"id":"8CE21F05-62B1-E511-80D3-AC162DC085C0","name":"The Second Rising","tag":"TSR","emblem":{"background":{"id":24,"colors":[473]},"foreground":{"id":17,"colors":[146,584]},"flags":[]}}
+{"id":"748B4EF0-4A35-E911-81AA-D66D0E22CAB6","name":"The Plfs","tag":"MEOW","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":54,"colors":[443,443]},"flags":[]}}
+{"id":"EDC6B95A-F5AF-E611-80D3-E83935B5B448","name":"Rondadores De Tyria","tag":"RT","emblem":{"background":{"id":3,"colors":[376]},"foreground":{"id":212,"colors":[64,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"987CF2A7-E669-ED11-81B7-AD7CCA945DAC","name":"Random Midfield Kötterz","tag":"färs","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":189,"colors":[584,64]},"flags":[]}}
+{"id":"27C7E87E-116F-EA11-81A8-C983E8889009","name":"Bone Zone Second Wind","tag":"Mmmh","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":29,"colors":[443,473]},"flags":[]}}
+{"id":"88C43AAD-5487-41DB-AB67-A02C7590E82F","name":"Volition Cult","tag":"VOLT","emblem":{"background":{"id":27,"colors":[4]},"foreground":{"id":219,"colors":[71,443]},"flags":[]}}
+{"id":"3CFDB1DB-8687-41A1-B4EA-47F066554A8E","name":"Kñîghts Óf Mîllénñîum Érá","tag":"KöMÉ","emblem":{"background":{"id":23,"colors":[48]},"foreground":{"id":21,"colors":[146,443]},"flags":[]}}
+{"id":"2F398D10-BADA-E811-81A8-E8B6963692B8","name":"My Build Is From Meta Battle","tag":"Mb","emblem":{"background":{"id":13,"colors":[617]},"foreground":{"id":20,"colors":[146,146]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"F991D9DF-9D4E-43E9-9630-067F51D56ED5","name":"Timl Lmit","tag":"tl","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":108,"colors":[93,130]},"flags":[]}}
+{"id":"54D0200B-49E6-47E4-BE7F-57FDCB11F4FA","name":"The Karma Initiative","tag":"rddt","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":2,"colors":[112,443]},"flags":[]}}
+{"id":"87E49132-BDA6-E411-A8E7-AC162DAE5A05","name":"United Heroes Of Ascalon","tag":"UHA","emblem":{"background":{"id":13,"colors":[146]},"foreground":{"id":20,"colors":[27,673]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"19B8D2B3-D0B2-45CF-AB66-EE0A318C57E8","name":"Descensiön","tag":"WAR","emblem":{"background":{"id":8,"colors":[130]},"foreground":{"id":85,"colors":[443,146]},"flags":[]}}
+{"id":"35DE7B5D-14BF-4381-B95E-6A3147A6D455","name":"Sömebody Set Up Us The","tag":"Bomb","emblem":{"background":{"id":8,"colors":[130]},"foreground":{"id":2,"colors":[584,146]},"flags":[]}}
+{"id":"EC4B5E8B-9A29-4122-888C-B867121AB940","name":"Team Bleepdoop","tag":"COO","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":164,"colors":[137,64]},"flags":[]}}
+{"id":"B829B51D-953C-E411-BE98-E4115BDFC985","name":"The Law of Karma","tag":"LOK","emblem":{"background":{"id":21,"colors":[48]},"foreground":{"id":208,"colors":[132,112]},"flags":[]}}
+{"id":"560C0E6B-44A2-4424-8B3A-81AAB1E4C247","name":"Por La Razón O La Fuerza","tag":"CL","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":104,"colors":[27,443]},"flags":[]}}
+{"id":"AB6712C4-7580-E311-863C-E4115BDF481D","name":"Necrotic Insomniacs","tag":"NITE","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":238,"colors":[617,137]},"flags":[]}}
+{"id":"AAEA5E0A-B5A8-E311-BE98-E4115BDFC985","name":"Zealots Of Ascalon","tag":"ZA","emblem":{"background":{"id":22,"colors":[584]},"foreground":{"id":17,"colors":[617,443]},"flags":[]}}
+{"id":"40AE3D55-B402-E611-80D4-E4115BDFCB5D","name":"Oh No Cupcakes","tag":"Cake","emblem":{"background":{"id":7,"colors":[473]},"foreground":{"id":263,"colors":[443,71]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"4A27F075-6B5D-4782-8D5E-D69B1492B81A","name":"Tempest Wolves","tag":"TW","emblem":{"background":{"id":27,"colors":[443]},"foreground":{"id":233,"colors":[473,146]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"54752E0C-6B70-EA11-81B1-D0069C08C942","name":"Scarlet Council","tag":"SC","emblem":{"background":{"id":11,"colors":[473]},"foreground":{"id":135,"colors":[673,443]},"flags":[]}}
+{"id":"025FD7E6-1026-43A1-BE66-B4308932195F","name":"Dragons Den","tag":"DD","emblem":{"background":{"id":23,"colors":[443]},"foreground":{"id":42,"colors":[673,443]},"flags":[]}}
+{"id":"AE8CDF7B-9579-E911-81A8-E944283D67C1","name":"Secret Castle","tag":"HOME","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":266,"colors":[27,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"E98B70E6-0B52-4B53-8B06-D8C59AAE7279","name":"Army Of Bays","tag":"Bays","emblem":{"background":{"id":8,"colors":[48]},"foreground":{"id":76,"colors":[139,112]},"flags":[]}}
+{"id":"D18FA1BB-B8AF-E311-BB46-80C16E7C6D65","name":"Fear Us Respect Us","tag":"FEAR","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":56,"colors":[443,673]},"flags":[]}}
+{"id":"BAFA20B1-5FC1-E711-81A1-0234DC5E07D2","name":"We're Rich You Know","tag":"ßßß","emblem":{"background":{"id":12,"colors":[93]},"foreground":{"id":179,"colors":[584,673]},"flags":[]}}
+{"id":"1B66D7AB-7308-4897-96FD-E92C05FA5CEF","name":"Atreyu","tag":"Ayu","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":164,"colors":[137,146]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"681F183C-D753-4ACB-BE5D-B794EDCA8D49","name":"Destroy All Monsters","tag":"DAM","emblem":{"background":{"id":15,"colors":[473]},"foreground":{"id":283,"colors":[114,443]},"flags":[]}}
+{"id":"457E4F72-64CD-EC11-81B7-AD7CCA945DAC","name":"Skogsbärenbande","tag":"Skog","emblem":{"background":{"id":2,"colors":[71]},"foreground":{"id":158,"colors":[443,136]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"55A12E52-D425-4EED-AD28-BFD7E61D2D27","name":"Grenths Anbeter","tag":"GAr","emblem":{"background":{"id":3,"colors":[71]},"foreground":{"id":105,"colors":[473,443]},"flags":[]}}
+{"id":"4F564814-1CBD-E311-9621-AC162DAE8ACD","name":"Last Demons","tag":"LD","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":126,"colors":[443,473]},"flags":["FlipBackgroundVertical"]}}
+{"id":"1732ADA3-708A-41DC-8321-F4565365E90C","name":"Rogues To Riches","tag":"RtR","emblem":{"background":{"id":8,"colors":[71]},"foreground":{"id":84,"colors":[584,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"1BC157B7-FB50-EA11-81A8-CDE2AC1EED30","name":"Team Ultra S","tag":"exy","emblem":{"background":{"id":14,"colors":[114]},"foreground":{"id":169,"colors":[125,93]},"flags":[]}}
+{"id":"6783C08C-8B21-45F8-B346-F6FF7465A274","name":"Team Overflow","tag":"TOF","emblem":{"background":{"id":23,"colors":[11]},"foreground":{"id":155,"colors":[146,27]},"flags":[]}}
+{"id":"099942E5-9399-EC11-8465-06D1970130F4","name":"Playing Against All Odds","tag":"ODD","emblem":{"background":{"id":14,"colors":[673]},"foreground":{"id":106,"colors":[146,146]},"flags":[]}}
+{"id":"8A39D4C2-4DE6-4821-AD44-D47E40F33012","name":"Highly Over Powered Explorers","tag":"HOPE","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":17,"colors":[146,64]},"flags":[]}}
+{"id":"E94E2A3F-7C7D-E511-925A-AC162DAE5AD5","name":"Cleric Nomad S Q U A D","tag":"DPS","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":164,"colors":[443,137]},"flags":[]}}
+{"id":"388F9EC9-44E6-E811-81AA-BEF9B8C3E82E","name":"Shadow Form","tag":"SF","emblem":{"background":{"id":1,"colors":[673]},"foreground":{"id":126,"colors":[443,443]},"flags":[]}}
+{"id":"6FF50155-968D-E411-A8E7-AC162DAE5A05","name":"Dragons from Draezor","tag":"DD","emblem":{"background":{"id":8,"colors":[136]},"foreground":{"id":304,"colors":[443,673]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"D031128E-0479-E411-BB46-80C16E7C6D65","name":"Heels Bank","tag":"HGB"}
+{"id":"320832AC-F269-4319-8243-413A7292DDC4","name":"Heroes Of The Horn","tag":"HotH","emblem":{"background":{"id":4,"colors":[473]},"foreground":{"id":110,"colors":[443,443]},"flags":[]}}
+{"id":"4B995802-FC31-ED11-81A9-8FB5CFBE7766","name":"Forged Dragon Steel","tag":"DGRN","emblem":{"background":{"id":14,"colors":[71]},"foreground":{"id":266,"colors":[584,673]},"flags":[]}}
+{"id":"57D02337-0264-EA11-81AA-A77AA130EAB8","name":"Tyrias Deadliest Llamas","tag":"Lama","emblem":{"background":{"id":21,"colors":[137]},"foreground":{"id":165,"colors":[64,443]},"flags":[]}}
+{"id":"20DCBC5B-1883-E411-A3E6-AC162DC0E835","name":"Seelen Des Schicksals","tag":"SdS","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":57,"colors":[443,47]},"flags":["FlipBackgroundVertical"]}}
+{"id":"DBEF59D4-D36E-E411-BB46-80C16E7C6D65","name":"Peachy Party","tag":"PRTY","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":116,"colors":[146,125]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"C80EDF8F-81C9-E811-81A8-F161567B2263","name":"Wolves From The Deep Forest","tag":"WFDF","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":255,"colors":[443,132]},"flags":[]}}
+{"id":"3210F32F-F17A-4C01-9C1D-2EAD6736FA44","name":"Minions Of Grenth","tag":"MoG","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":28,"colors":[130,473]},"flags":[]}}
+{"id":"33C163CC-6F21-ED11-81B2-A840610878B3","name":"Let It Raine I I","tag":"RAIN","emblem":{"background":{"id":2,"colors":[130]},"foreground":{"id":56,"colors":[584,443]},"flags":[]}}
+{"id":"9E24FF84-89B4-4C50-BE84-3907C8E2E7E6","name":"Frumious Bandersnatch","tag":"FrBa","emblem":{"background":{"id":8,"colors":[132]},"foreground":{"id":14,"colors":[443,443]},"flags":[]}}
+{"id":"1AA1C2D1-5EF9-411B-B904-F58E4D21EF65","name":"Fer Science","tag":"FS","emblem":{"background":{"id":21,"colors":[11]},"foreground":{"id":18,"colors":[27,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"156265B6-64BE-E611-80D3-AC162DC085C0","name":"Mrs Mojo Risin","tag":"MOJO","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":167,"colors":[121,125]},"flags":[]}}
+{"id":"36563988-C96B-E511-A34A-E4115BDF481D","name":"Ordo Veritatis","tag":"TRUE","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":121,"colors":[4,443]},"flags":[]}}
+{"id":"EFF5B2B6-83A2-46AE-83CC-13D05E6BF421","name":"The High Chronicles","tag":"THCs","emblem":{"background":{"id":20,"colors":[473]},"foreground":{"id":45,"colors":[93,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"F8DFDA48-42CA-EA11-81A8-C983E8889009","name":"Soldados Eternos","tag":"ARES","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":13,"colors":[673,93]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"2EF2940B-6755-E611-80D4-E4115BD19D24","name":"Bounty Hunter Bs","tag":"BS","emblem":{"background":{"id":28,"colors":[673]},"foreground":{"id":75,"colors":[443,673]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"3F7DBD16-802B-E711-80D4-E4115BD19D24","name":"Lag Overdose Olympic Team","tag":"LooT","emblem":{"background":{"id":10,"colors":[473]},"foreground":{"id":164,"colors":[443,125]},"flags":[]}}
+{"id":"46D81D5B-1F60-EA11-81AA-A77AA130EAB8","name":"Vrau","tag":"vR","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":264,"colors":[64,584]},"flags":["FlipBackgroundHorizontal","FlipForegroundVertical"]}}
+{"id":"4A44FFDB-EFF1-E411-9021-E4115BDFA895","name":"Borderland United Recon","tag":"BLUR","emblem":{"background":{"id":28,"colors":[473]},"foreground":{"id":116,"colors":[443,473]},"flags":["FlipBackgroundVertical"]}}
+{"id":"D30A6A8B-CA0D-471C-ADF6-3BD3C18ED263","name":"The Eternal Alchemists","tag":"TEA","emblem":{"background":{"id":20,"colors":[673]},"foreground":{"id":144,"colors":[473,443]},"flags":[]}}
+{"id":"D7F08CF6-055C-E911-81B1-D0069C08C942","name":"Pang Lords","tag":"CAVE","emblem":{"background":{"id":21,"colors":[137]},"foreground":{"id":8,"colors":[443,125]},"flags":[]}}
+{"id":"5E62F6B6-D90B-E611-80D3-E4115BE8BBE8","name":"Héros Des Brumes","tag":"HDB","emblem":{"background":{"id":3,"colors":[673]},"foreground":{"id":170,"colors":[673,443]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"5EE70D2E-A8C3-EC11-8465-06D1970130F4","name":"Tyrias Cozy Corner","tag":"TCC","emblem":{"background":{"id":28,"colors":[139]},"foreground":{"id":169,"colors":[584,137]},"flags":[]}}
+{"id":"0AEA69E7-D7A4-E511-80D3-E4115BD7186D","name":"Sold My Gf For Some","tag":"PiPs","emblem":{"background":{"id":21,"colors":[617]},"foreground":{"id":199,"colors":[93,121]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"5563ABD5-6A40-EA11-81A8-C983E8889009","name":"Fulgur Auri","tag":"Auri","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":104,"colors":[146,584]},"flags":[]}}
+{"id":"F2C55420-F7CB-E611-80D4-E4115BD19D24","name":"Chïldren Of The Nïght","tag":"Vämp","emblem":{"background":{"id":7,"colors":[673]},"foreground":{"id":288,"colors":[112,443]},"flags":[]}}
+{"id":"FA85479D-E1DD-4571-A11A-B7F180CA77BF","name":"Fatal Aggression","tag":"BOSS","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":56,"colors":[443,673]},"flags":[]}}
+{"id":"14DC7E34-D782-EC11-81AB-F50023EE1BF3","name":"Miltons Imperial Land Force","tag":"MILF","emblem":{"background":{"id":1,"colors":[673]},"foreground":{"id":50,"colors":[114,673]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"3DD52431-5767-E411-BB46-80C16E7C6D65","name":"Demons Killer","tag":"DKJ","emblem":{"background":{"id":21,"colors":[376]},"foreground":{"id":301,"colors":[473,673]},"flags":[]}}
+{"id":"6A112DA2-FC7B-4403-827D-753274EBD8D5","name":"Norpass Imperium","tag":"NOPE","emblem":{"background":{"id":14,"colors":[11]},"foreground":{"id":56,"colors":[9,473]},"flags":[]}}
+{"id":"D0CA3B73-1FE3-435A-A81B-6A5813999DA5","name":"Princess Tutu","tag":"PT","emblem":{"background":{"id":21,"colors":[11]},"foreground":{"id":199,"colors":[443,47]},"flags":[]}}
+{"id":"3A596135-42E3-4D56-A22A-BC9661C25AED","name":"Spirit Of The Exiled","tag":"Hero","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":282,"colors":[93,11]},"flags":[]}}
+{"id":"99901D0B-4AD3-48D3-BA2E-936B69062392","name":"Rage Of Absalom","tag":"ROA","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":70,"colors":[71,473]},"flags":[]}}
+{"id":"25C3E975-66EC-E311-BE98-E4115BDFC985","name":"Luxon Bank Of Cantha","tag":"LBC","emblem":{"background":{"id":27,"colors":[137]},"foreground":{"id":110,"colors":[112,673]},"flags":[]}}
+{"id":"DB7F8475-49AA-E311-941E-AC162DAE5AD5","name":"Almost Harmless","tag":"AH","emblem":{"background":{"id":24,"colors":[71]},"foreground":{"id":63,"colors":[64,443]},"flags":[]}}
+{"id":"C8DE92CC-D61C-4FD2-9BE1-AEC80BBD0889","name":"Bunny Bunny","tag":"Cute","emblem":{"background":{"id":21,"colors":[443]},"foreground":{"id":256,"colors":[48,443]},"flags":[]}}
+{"id":"1C75539B-E982-E811-81A9-DC92C488388A","name":"The Axis Order I","tag":"AQUA","emblem":{"background":{"id":13,"colors":[473]},"foreground":{"id":250,"colors":[443,137]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"BD08FE0D-F05E-E811-81A9-CEE44FED0C20","name":"Are We A Cult","tag":"Qt","emblem":{"background":{"id":22,"colors":[71]},"foreground":{"id":300,"colors":[473,48]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"06ED944E-7099-E511-80D4-E4115BE8E905","name":"Anoñymous Rebellion","tag":"wHo","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":121,"colors":[584,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"E38A5A4D-5432-46AA-B4D7-7EFFCF4BF980","name":"Warbringers Of Ascension","tag":"VVoA","emblem":{"background":{"id":22,"colors":[47]},"foreground":{"id":23,"colors":[443,473]},"flags":[]}}
+{"id":"1BC041CA-7807-4B64-BC24-D017F09EFD08","name":"Wrecking","tag":"Krew","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":129,"colors":[584,673]},"flags":[]}}
+{"id":"798905F2-2776-404C-A727-06CFB4AFB003","name":"Children Of The Forgotten","tag":"IONO","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":16,"colors":[146,146]},"flags":["FlipBackgroundVertical"]}}
+{"id":"48FBFDF4-7E52-ED11-81B2-A840610878B3","name":"Jabberwockee","tag":"JAB","emblem":{"background":{"id":4,"colors":[473]},"foreground":{"id":16,"colors":[9,673]},"flags":[]}}
+{"id":"1AA2BDFA-F4D8-E811-81A8-C983E8889009","name":"Adventurers Experienced Or New","tag":"Aeon","emblem":{"background":{"id":4,"colors":[473]},"foreground":{"id":21,"colors":[673,673]},"flags":[]}}
+{"id":"BFBC72CB-29A8-42E2-A392-672C8491A49C","name":"The Legend Of The Book","tag":"BOOK","emblem":{"background":{"id":4,"colors":[27]},"foreground":{"id":18,"colors":[443,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"D83FD0CA-DA3C-45E3-9844-B2A5A70BCCF3","name":"Ithquenti Di Sthyri","tag":"IDS","emblem":{"background":{"id":27,"colors":[584]},"foreground":{"id":305,"colors":[71,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"6E58914E-AF6F-E711-80D3-441EA14F1E40","name":"Eruptíon","tag":"Rupt","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":238,"colors":[443,443]},"flags":[]}}
+{"id":"139C05B5-002F-E911-81B7-AD7CCA945DAC","name":"Grumpy Hobbit Playground Squad","tag":"GHPS","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":263,"colors":[71,584]},"flags":["FlipBackgroundVertical"]}}
+{"id":"577BF308-91B7-E611-80D4-E4115BEBA648","name":"Scions Of The Twilight Realm","tag":"DARK","emblem":{"background":{"id":27,"colors":[114]},"foreground":{"id":121,"colors":[473,146]},"flags":[]}}
+{"id":"AF69ABFA-8ED3-E411-A2AD-AC162DC0A8ED","name":"Gods Of Defense","tag":"GOD","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":16,"colors":[443,584]},"flags":[]}}
+{"id":"D1372496-877F-4D55-B544-DF4603D4AC9B","name":"Forces Of Destiny","tag":"FoD","emblem":{"background":{"id":3,"colors":[473]},"foreground":{"id":44,"colors":[27,443]},"flags":[]}}
+{"id":"4EC8BEAF-B669-EB11-81AC-95DFE50946EB","name":"Booboos Tiny Army","tag":"TINY","emblem":{"background":{"id":7,"colors":[125]},"foreground":{"id":252,"colors":[121,673]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"1F344B97-EE4A-46CE-893B-744635A7241B","name":"Templars","tag":"PwN","emblem":{"background":{"id":24,"colors":[673]},"foreground":{"id":50,"colors":[473,443]},"flags":[]}}
+{"id":"2C460FB8-EBAC-E511-80D3-E4115BD7B405","name":"Loups Solidaires Combattants","tag":"LSC","emblem":{"background":{"id":20,"colors":[617]},"foreground":{"id":53,"colors":[443,673]},"flags":[]}}
+{"id":"A108F3DB-8CD0-4372-B1F2-B843DD56D2CD","name":"Die Gemeinschaft Der Horde","tag":"dGdH","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":70,"colors":[584,584]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"BA44725A-F0C8-43EB-BC4E-9C8A10648448","name":"The Mailed Fist","tag":"FIST","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":1,"colors":[443,584]},"flags":[]}}
+{"id":"10DD8816-D1BC-4EC8-8A8F-FB8C8F0A0355","name":"League Of Omnipotents","tag":"Omni","emblem":{"background":{"id":11,"colors":[11]},"foreground":{"id":144,"colors":[673,112]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"754797BE-2DA8-EA11-81A8-A25FC8B1A2FE","name":"Blitzkrieg Evil","tag":"EVIL","emblem":{"background":{"id":27,"colors":[473]},"foreground":{"id":269,"colors":[71,93]},"flags":[]}}
+{"id":"E850CE94-F28E-48B8-AC50-45E23192B050","name":"Alera Legion","tag":"TAO","emblem":{"background":{"id":4,"colors":[473]},"foreground":{"id":308,"colors":[617,584]},"flags":[]}}
+{"id":"916C9F3F-DA25-EC11-81A9-8FB5CFBE7766","name":"Gal","tag":"Pals","emblem":{"background":{"id":27,"colors":[11]},"foreground":{"id":164,"colors":[137,584]},"flags":[]}}
+{"id":"2B7B06DC-4B0C-E411-BB46-80C16E7C6D65","name":"Persistent Aggression","tag":"PA","emblem":{"background":{"id":3,"colors":[473]},"foreground":{"id":223,"colors":[584,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"93129503-379C-48BB-8808-F7CEDFD954A6","name":"Team Question Mark","tag":"TQM","emblem":{"background":{"id":24,"colors":[473]},"foreground":{"id":249,"colors":[48,617]},"flags":[]}}
+{"id":"D1F5C49B-8BA4-4DA4-9550-71C37AAF3D9A","name":"Teufelsgarde","tag":"TG","emblem":{"background":{"id":13,"colors":[136]},"foreground":{"id":301,"colors":[673,146]},"flags":[]}}
+{"id":"742C4E6D-B658-EC11-81A8-A25FC8B1A2FE","name":"Bad Manners Inc","tag":"BMI","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":15,"colors":[584,443]},"flags":[]}}
+{"id":"7892D947-9225-ED11-81A9-8FB5CFBE7766","name":"Jedi Knights Who Say Ni","tag":"NI","emblem":{"background":{"id":23,"colors":[146]},"foreground":{"id":70,"colors":[93,11]},"flags":[]}}
+{"id":"4C0600CE-F14F-47FA-A90F-A5105876C095","name":"Litneria","tag":"Wind","emblem":{"background":{"id":21,"colors":[617]},"foreground":{"id":27,"colors":[11,64]},"flags":[]}}
+{"id":"37C36C48-3A60-E611-80D4-E4115BE8E905","name":"The Judicators Conclave","tag":"AIUR","emblem":{"background":{"id":3,"colors":[443]},"foreground":{"id":244,"colors":[473,443]},"flags":[]}}
+{"id":"8EC70DDE-5ABC-48A7-B464-0A0E6A7BF543","name":"Friday Night Beer League","tag":"FNBL","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":15,"colors":[673,584]},"flags":[]}}
+{"id":"945C3A89-DD1F-4EBE-8D59-49C59540D4AE","name":"Divine Order Of Heroes","tag":"DOoH","emblem":{"background":{"id":24,"colors":[71]},"foreground":{"id":85,"colors":[146,584]},"flags":[]}}
+{"id":"731719FC-1BCA-E511-80D4-E4115BD76FFD","name":"War Monkeys","tag":"MONK","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":126,"colors":[93,71]},"flags":[]}}
+{"id":"BEEF58BD-9E9B-45FA-A373-C68BCA576E5A","name":"The Dragonfly Effect","tag":"Phi","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":40,"colors":[136,584]},"flags":[]}}
+{"id":"0C990EF7-CC5A-EA11-81A8-CDE2AC1EED30","name":"Ragnaröks Boten","tag":"RB","emblem":{"background":{"id":21,"colors":[473]},"foreground":{"id":255,"colors":[443,584]},"flags":["FlipBackgroundVertical"]}}
+{"id":"F863299C-C3A3-41DF-8BED-5728483AF58B","name":"Sklad","tag":"Skld"}
+{"id":"D55D602B-BD2E-E811-81A1-0234DC5E07D2","name":"We Use Sticks To Get Ants","tag":"Apes","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":8,"colors":[340,71]},"flags":[]}}
+{"id":"4B245058-367E-E411-A3E6-AC162DC0E835","name":"The Devils Symphony","tag":"TDS","emblem":{"background":{"id":22,"colors":[4]},"foreground":{"id":155,"colors":[473,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"29A47645-0250-41C8-A195-725899F462FB","name":"Die Schicksalsweber","tag":"SmF","emblem":{"background":{"id":23,"colors":[146]},"foreground":{"id":111,"colors":[443,64]},"flags":[]}}
+{"id":"D2596DE9-0C2F-E411-A32A-E4115BDFA895","name":"Defenders Of The Black Hand","tag":"DBH","emblem":{"background":{"id":13,"colors":[473]},"foreground":{"id":1,"colors":[473,673]},"flags":[]}}
+{"id":"18460897-2A8D-E811-81A8-83C7278578E0","name":"Grand Juju Clan","tag":"JUJU","emblem":{"background":{"id":22,"colors":[71]},"foreground":{"id":203,"colors":[132,473]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"89CA84D0-B8FE-4122-8DCF-95627292F20F","name":"What A Nice Guild","tag":"NICE","emblem":{"background":{"id":7,"colors":[11]},"foreground":{"id":2,"colors":[27,146]},"flags":[]}}
+{"id":"8A6DB516-8BF5-EC11-81AB-F50023EE1BF3","name":"Guild Of Desert Sons","tag":"GODS","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":247,"colors":[146,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"7C6F8A42-09D6-EA11-81A8-C983E8889009","name":"Paladins Of The Blood Oath","tag":"Oath","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":3,"colors":[443,9]},"flags":[]}}
+{"id":"BE9561ED-8EE5-E811-81AA-A77AA130EAB8","name":"Subtly Canoodling","tag":"PDA","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":199,"colors":[443,137]},"flags":[]}}
+{"id":"4B5CA7D5-0CB2-E411-AF00-AC162DC028B5","name":"Family Of Crows","tag":"Crow","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":52,"colors":[473,443]},"flags":[]}}
+{"id":"5B5E29B9-C5D7-E611-80D4-E4115BD19D24","name":"Padma Mani Su Darpana","tag":"LOTO","emblem":{"background":{"id":23,"colors":[146]},"foreground":{"id":199,"colors":[443,125]},"flags":[]}}
+{"id":"0B39A1B7-F84E-4929-B361-8C0A6564214E","name":"No Fear Of Death","tag":"NFoD","emblem":{"background":{"id":23,"colors":[584]},"foreground":{"id":138,"colors":[71,443]},"flags":[]}}
+{"id":"C98EDA27-94F3-433A-8FC0-33A72F514EF3","name":"Luck Of The Irish","tag":"LOTI","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":110,"colors":[443,617]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"3EAF5C69-7FB3-EB11-81AA-A77AA130EAB8","name":"Grey Quarter","tag":"RP","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":219,"colors":[443,443]},"flags":[]}}
+{"id":"9A6BB760-945F-E911-81B7-AD7CCA945DAC","name":"My Bank Your Bank","tag":"MBYB","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":298,"colors":[443,137]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"E2DA8827-AEF2-E911-81A8-83C7278578E0","name":"Neverlücky","tag":"nL","emblem":{"background":{"id":23,"colors":[443]},"foreground":{"id":219,"colors":[473,146]},"flags":[]}}
+{"id":"E7A674B0-54C0-EC11-81AC-95DFE50946EB","name":"Alcolytes Of Necro","tag":"NEC","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":251,"colors":[673,673]},"flags":[]}}
+{"id":"F7225AF3-EA14-E511-AB13-E4115BDFC985","name":"Yamato Quaggan Family","tag":"CUTE","emblem":{"background":{"id":23,"colors":[584]},"foreground":{"id":167,"colors":[121,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"2691CD4E-32A9-E411-AF00-AC162DC028B5","name":"Only Here For The Shinies","tag":"LooT","emblem":{"background":{"id":14,"colors":[443]},"foreground":{"id":116,"colors":[443,93]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"F114EFF8-5FBF-E911-81A8-F161567B2263","name":"Casual Kittens","tag":"MIAU","emblem":{"background":{"id":14,"colors":[443]},"foreground":{"id":258,"colors":[125,121]},"flags":[]}}
+{"id":"99E66082-D417-E511-A34A-E4115BDF481D","name":"Battle Rage Force Fighters","tag":"BRFF","emblem":{"background":{"id":7,"colors":[473]},"foreground":{"id":292,"colors":[673,146]},"flags":[]}}
+{"id":"450AEF2A-A35F-E911-81AA-A77AA130EAB8","name":"Icønic","tag":"Icon","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":116,"colors":[443,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"C49396D2-9DBA-438B-A90E-3792C4314276","name":"Hope Rides Alone","tag":"HOPE","emblem":{"background":{"id":23,"colors":[443]},"foreground":{"id":121,"colors":[146,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"150F99C8-2389-417E-9150-43E91FAFFB6E","name":"Blackwater Vanguard","tag":"BV","emblem":{"background":{"id":8,"colors":[48]},"foreground":{"id":159,"colors":[146,584]},"flags":[]}}
+{"id":"0A6E99F7-C815-E611-80D4-E4115BEBA648","name":"Fern Hood","tag":"FERN","emblem":{"background":{"id":23,"colors":[673]},"foreground":{"id":111,"colors":[27,617]},"flags":[]}}
+{"id":"3046E2BB-C8C7-EB11-81A8-E944283D67C1","name":"Skeîn Gang","tag":"SG","emblem":{"background":{"id":1,"colors":[71]},"foreground":{"id":187,"colors":[473,443]},"flags":[]}}
+{"id":"36DA807C-C74A-4936-993F-1005BEC26E71","name":"Sinful Desire","tag":"Sin","emblem":{"background":{"id":23,"colors":[584]},"foreground":{"id":199,"colors":[584,673]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"58191962-1381-4554-9293-82D1603455D9","name":"Just Wait Till I Get Back Up","tag":"down","emblem":{"background":{"id":14,"colors":[64]},"foreground":{"id":149,"colors":[121,112]},"flags":[]}}
+{"id":"B32B430B-F259-E611-80D4-E4115BDFF975","name":"This Is How Unicorns","tag":"ROLL","emblem":{"background":{"id":7,"colors":[48]},"foreground":{"id":49,"colors":[443,93]},"flags":[]}}
+{"id":"344D8025-75F5-EB11-81AB-8CD3CF4E85AB","name":"Dont Fôrget To","tag":"DUCK","emblem":{"background":{"id":27,"colors":[136]},"foreground":{"id":246,"colors":[584,443]},"flags":[]}}
+{"id":"103AE02E-9A40-4104-8A2C-FC23FF87871A","name":"Legacy Of The Hellkite","tag":"LgHk","emblem":{"background":{"id":2,"colors":[130]},"foreground":{"id":40,"colors":[4,443]},"flags":[]}}
+{"id":"5B1E5BAB-1F21-E711-80D3-E4115BD7186D","name":"Violence On In Demand","tag":"VOID","emblem":{"background":{"id":22,"colors":[473]},"foreground":{"id":126,"colors":[443,4]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"F6ED7EE9-AE02-E511-9021-E4115BDFA895","name":"Chapter Black","tag":"Chap","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":84,"colors":[93,4]},"flags":[]}}
+{"id":"2284625E-992A-E511-8D0D-AC162DAE8ACD","name":"Rider Of Lohan","tag":"ROL","emblem":{"background":{"id":21,"colors":[47]},"foreground":{"id":190,"colors":[473,47]},"flags":[]}}
+{"id":"0862EFFC-A7F4-4063-AF55-937025883612","name":"Lords Of Hellfire","tag":"loh","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":143,"colors":[673,93]},"flags":[]}}
+{"id":"73BDDE9B-79B6-EB11-81A8-F161567B2263","name":"Forced To Keep The Tag","tag":"CS","emblem":{"background":{"id":14,"colors":[47]},"foreground":{"id":155,"colors":[443,137]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"893334F8-1396-4F1A-B5C8-47BF0F9C0780","name":"Allfx","tag":"fx","emblem":{"background":{"id":24,"colors":[64]},"foreground":{"id":107,"colors":[584,112]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"2D75E08D-CB72-E511-AF00-AC162DC028B5","name":"View The Moonlight","tag":"VTM","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":116,"colors":[584,146]},"flags":[]}}
+{"id":"DBEFDB2E-A13C-E611-80D4-E4115BD76FFD","name":"Matter Minds Math","tag":"MMM","emblem":{"background":{"id":21,"colors":[146]},"foreground":{"id":18,"colors":[443,137]},"flags":[]}}
+{"id":"ED69FA59-3546-E411-A3E6-AC162DC0E835","name":"Bilanzposten","tag":"BiBu","emblem":{"background":{"id":14,"colors":[584]},"foreground":{"id":164,"colors":[584,93]},"flags":[]}}
+{"id":"7DF81E2A-8DAA-43B4-8E20-D60E1ED5EC19","name":"Hope Remains","tag":"HOPE","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":17,"colors":[584,673]},"flags":[]}}
+{"id":"6161AD0F-FE2E-E711-80D3-E4115BE8BBE8","name":"Die Irren Von Arah","tag":"DIVA","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":281,"colors":[443,673]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"DE9BE6E8-2319-EC11-81A8-F161567B2263","name":"Queen Of Metal","tag":"Doro","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":295,"colors":[112,473]},"flags":[]}}
+{"id":"71A30BAA-FC88-4A10-B0F1-188100D5E24D","name":"Tueurs De Lapins","tag":"TDL","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":245,"colors":[473,146]},"flags":[]}}
+{"id":"E5D6D754-B8E0-48AB-A04D-F23964DE855B","name":"Angelz Of Fantasy","tag":"Angz","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":16,"colors":[443,673]},"flags":[]}}
+{"id":"9F609D29-A56C-4937-9BF3-803665F9B217","name":"Death Is Energy","tag":"DIE","emblem":{"background":{"id":13,"colors":[139]},"foreground":{"id":63,"colors":[112,673]},"flags":[]}}
+{"id":"F0251846-12D4-E611-80DA-101F7433EEAD","name":"League Of Stingers","tag":"LOS","emblem":{"background":{"id":16,"colors":[473]},"foreground":{"id":39,"colors":[443,673]},"flags":[]}}
+{"id":"8742F45C-0A1B-E711-80D3-E4115BE8BBE8","name":"Massively Oversized Avians","tag":"MOA","emblem":{"background":{"id":2,"colors":[11]},"foreground":{"id":204,"colors":[121,93]},"flags":[]}}
+{"id":"CDA1C575-7511-4DF8-BF28-BAA309961878","name":"Heroic Defenders Riverside","tag":"HDR","emblem":{"background":{"id":23,"colors":[146]},"foreground":{"id":22,"colors":[64,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"94A962BF-7C3A-4024-809E-B50638D1F50E","name":"We Seek Harmony And Balance In","tag":"LIFE","emblem":{"background":{"id":23,"colors":[71]},"foreground":{"id":23,"colors":[584,146]},"flags":[]}}
+{"id":"99A48734-A110-E511-A5A9-AC162DAE5A05","name":"The Kombat Wombats","tag":"KW","emblem":{"background":{"id":10,"colors":[473]},"foreground":{"id":164,"colors":[27,443]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"F476B2C3-A50C-E511-A278-AC162DC0070D","name":"Legacy Of Trahearne","tag":"TRHN","emblem":{"background":{"id":10,"colors":[137]},"foreground":{"id":199,"colors":[47,136]},"flags":[]}}
+{"id":"99E2B6EE-1C7E-4E57-9215-4C8E5DEB777E","name":"Brosquad Treehouse","tag":"BSTH","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":46,"colors":[443,64]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"9A732AAF-5D86-4800-943D-92C81820F80A","name":"Cobra Unit","tag":"Unit","emblem":{"background":{"id":3,"colors":[473]},"foreground":{"id":40,"colors":[673,584]},"flags":[]}}
+{"id":"DA397AAC-5549-477D-8576-2DB75351E65E","name":"Custo Et Morituri","tag":"CeM","emblem":{"background":{"id":23,"colors":[4]},"foreground":{"id":17,"colors":[146,71]},"flags":[]}}
+{"id":"6B76E960-C8F2-4F9B-A389-8F02B390A81F","name":"Nine Tail Shadow Fang","tag":"foxy","emblem":{"background":{"id":16,"colors":[473]},"foreground":{"id":212,"colors":[473,4]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"C93B79F5-6887-EB11-81A9-8FB5CFBE7766","name":"Pepega Party","tag":"PPGA","emblem":{"background":{"id":21,"colors":[121]},"foreground":{"id":127,"colors":[132,121]},"flags":[]}}
+{"id":"C747044D-540C-ED11-81B7-C3B1C0E42B51","name":"Voller Optimismus Ins Verderben","tag":"GuMM","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":148,"colors":[9,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"F5BE2A32-90F9-4A30-A836-6F2992041827","name":"Zirkel Der Morgenröte","tag":"EOS","emblem":{"background":{"id":2,"colors":[27]},"foreground":{"id":107,"colors":[673,146]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"03C81725-1BDE-EC11-81A9-8FB5CFBE7766","name":"Los Vengadoress","tag":"UCM","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":219,"colors":[27,93]},"flags":[]}}
+{"id":"4766ED01-0E2D-478C-9771-6D3EF047E3F2","name":"Fabulous Guards","tag":"FG","emblem":{"background":{"id":3,"colors":[11]},"foreground":{"id":281,"colors":[146,443]},"flags":[]}}
+{"id":"F1AE2833-1F00-EB11-81AA-A77AA130EAB8","name":"Players Vs Poopers","tag":"PvP","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":252,"colors":[121,443]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"CB23E89B-AF7D-EA11-81AA-A77AA130EAB8","name":"La Ruche","tag":"miel","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":173,"colors":[443,112]},"flags":[]}}
+{"id":"569A2F14-9962-EB11-81A9-971484D88F04","name":"We Barely Survive","tag":"DERV","emblem":{"background":{"id":19,"colors":[473]},"foreground":{"id":283,"colors":[121,121]},"flags":[]}}
+{"id":"B1AA1ADD-90B4-E611-80D4-E4115BEBA648","name":"Soldiers Of The Black Sun","tag":"Sun","emblem":{"background":{"id":24,"colors":[473]},"foreground":{"id":144,"colors":[473,443]},"flags":["FlipBackgroundVertical"]}}
+{"id":"0E0A26CA-9431-4B88-9D82-D4FCE55F1D6E","name":"Chains Of Shadows","tag":"CoS","emblem":{"background":{"id":8,"colors":[673]},"foreground":{"id":264,"colors":[443,473]},"flags":[]}}
+{"id":"A965E7F7-D617-429C-8030-F5F52664259A","name":"Alliance Of Glory Eternal","tag":"AGE","emblem":{"background":{"id":26,"colors":[47]},"foreground":{"id":144,"colors":[27,443]},"flags":[]}}
+{"id":"C59F51D0-E180-E411-BE98-E4115BDFC985","name":"Lone Quester","tag":"SOLO","emblem":{"background":{"id":21,"colors":[93]},"foreground":{"id":46,"colors":[584,71]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"EE5DC8B5-EFE2-ED11-81A9-8FB5CFBE7766","name":"The Fighting Mongoooses","tag":"FM","emblem":{"background":{"id":7,"colors":[139]},"foreground":{"id":225,"colors":[443,71]},"flags":[]}}
+{"id":"B96DCE6A-9AED-44C3-BCE2-74CA9E608F8C","name":"Ether","tag":"Eth","emblem":{"background":{"id":1,"colors":[473]},"foreground":{"id":122,"colors":[473,71]},"flags":[]}}
+{"id":"89559F14-4782-EB11-81A8-A25FC8B1A2FE","name":"What Is Killing Us","tag":"WIPE","emblem":{"background":{"id":28,"colors":[47]},"foreground":{"id":249,"colors":[64,617]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"B4260440-89CD-EB11-81B2-A840610878B3","name":"Horny On","tag":"MANE","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":9,"colors":[443,121]},"flags":[]}}
+{"id":"9BB6D9AB-ABDC-E911-81B1-D0069C08C942","name":"The Guard Of Cantha","tag":"TG","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":179,"colors":[340,47]},"flags":[]}}
+{"id":"9E32F579-C95E-4E6D-B6A0-17331BF17BDA","name":"Legión Del Águila","tag":"MEX","emblem":{"background":{"id":14,"colors":[4]},"foreground":{"id":70,"colors":[443,4]},"flags":[]}}
+{"id":"C3FAF86A-DDE0-4096-B468-AE5CC987EDD0","name":"Dull Egotistical Raiding Party","tag":"DERP","emblem":{"background":{"id":7,"colors":[47]},"foreground":{"id":161,"colors":[121,93]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal","FlipForegroundVertical"]}}
+{"id":"CE46E4A1-0FD9-EA11-81AA-A77AA130EAB8","name":"Dhuums","tag":"Gaze","emblem":{"background":{"id":2,"colors":[130]},"foreground":{"id":269,"colors":[473,132]},"flags":[]}}
+{"id":"155A8A08-E4C7-461E-9A2E-136A36CA2F46","name":"Marxmart Shopping Cart Drifters","tag":"DSCM","emblem":{"background":{"id":14,"colors":[584]},"foreground":{"id":164,"colors":[93,139]},"flags":["FlipBackgroundVertical","FlipForegroundVertical"]}}
+{"id":"DD5C7A21-21A7-E411-AEFB-AC162DC05865","name":"La Meute Des Chats Errants","tag":"LMDC","emblem":{"background":{"id":27,"colors":[11]},"foreground":{"id":280,"colors":[121,443]},"flags":[]}}
+{"id":"7AF28016-54C2-4908-A55F-21639CD61C6C","name":"Guardians Of Light","tag":"GoL","emblem":{"background":{"id":24,"colors":[146]},"foreground":{"id":55,"colors":[11,443]},"flags":[]}}
+{"id":"A0113645-46F0-421A-B987-EC5223EDCB09","name":"Legion Of The Aguila","tag":"LOA","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":69,"colors":[146,673]},"flags":[]}}
+{"id":"5C59E515-A66D-E811-81A8-83C7278578E0","name":"Vengeance Is Perfect","tag":"ViP","emblem":{"background":{"id":21,"colors":[146]},"foreground":{"id":251,"colors":[584,146]},"flags":["FlipBackgroundVertical"]}}
+{"id":"96946A8B-6CD7-E511-80D4-E4115BEBA648","name":"Rolled U","tag":"RU","emblem":{"background":{"id":8,"colors":[673]},"foreground":{"id":170,"colors":[473,443]},"flags":[]}}
+{"id":"3541CE5C-2F61-ED11-8465-0228F2FB5E53","name":"Busy Unwinding Right Now","tag":"BURN","emblem":{"background":{"id":14,"colors":[473]},"foreground":{"id":155,"colors":[121,27]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"D8BF7E2C-E771-EA11-81AA-A77AA130EAB8","name":"Frog Council","tag":"FROG","emblem":{"background":{"id":8,"colors":[132]},"foreground":{"id":149,"colors":[132,136]},"flags":[]}}
+{"id":"AE78EA6A-1C4C-EB11-81A8-83C7278578E0","name":"Monkey Knife Fight","tag":"MKF","emblem":{"background":{"id":21,"colors":[71]},"foreground":{"id":8,"colors":[584,146]},"flags":[]}}
+{"id":"B6F4570B-B1A2-43B6-A7AC-5E2E2AF94A73","name":"Reuníon","tag":"Rose","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":187,"colors":[443,9]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"63EE758C-4E14-4A51-8143-ECE8EACF25E5","name":"Oachkatzlschwoaf","tag":"AUT","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":21,"colors":[673,443]},"flags":[]}}
+{"id":"6CE7AD26-DC61-401D-BF34-79E469E31AF5","name":"Ancient Lorekeepers","tag":"SWED","emblem":{"background":{"id":28,"colors":[93]},"foreground":{"id":234,"colors":[146,11]},"flags":[]}}
+{"id":"BEC5CBFC-599A-E711-80D6-AC162DC085C5","name":"Loot Me Hard Senpai","tag":"BAGS","emblem":{"background":{"id":2,"colors":[27]},"foreground":{"id":293,"colors":[71,584]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"DED0614C-60DA-49FC-BC1A-86BED0E991C8","name":"The Returned Forgottens","tag":"TRF","emblem":{"background":{"id":25,"colors":[473]},"foreground":{"id":253,"colors":[443,71]},"flags":[]}}
+{"id":"9811A077-D73E-4B97-B1B3-F6944ED87E46","name":"New Order Gilde","tag":"NOG","emblem":{"background":{"id":2,"colors":[473]},"foreground":{"id":40,"colors":[443,443]},"flags":[]}}
+{"id":"A65047CC-8D49-E911-81A8-CD1049069AE5","name":"The Dark Era","tag":"ERA","emblem":{"background":{"id":2,"colors":[71]},"foreground":{"id":283,"colors":[443,71]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"2420A99B-AE54-43AF-9EC3-73C82321FDD5","name":"Denravi Alliance","tag":"DA","emblem":{"background":{"id":3,"colors":[473]},"foreground":{"id":21,"colors":[27,146]},"flags":[]}}
+{"id":"89A4C8CE-416D-E411-A8E7-AC162DAE5A05","name":"Rush Company","tag":"Rush","emblem":{"background":{"id":22,"colors":[673]},"foreground":{"id":170,"colors":[473,673]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"02D809D9-0BA5-E611-80D4-E4115BEBA648","name":"Shiverpeak Mountain Kings","tag":"SMK","emblem":{"background":{"id":28,"colors":[473]},"foreground":{"id":158,"colors":[443,443]},"flags":[]}}
+{"id":"3E945BA3-F62B-4FD6-B6CC-16A0AC9FAEC7","name":"Judge Legends","tag":"JDGE","emblem":{"background":{"id":1,"colors":[64]},"foreground":{"id":5,"colors":[584,584]},"flags":[]}}
+{"id":"B285918E-2219-479E-A5F9-AB9D20A9B1E6","name":"Oolas Labor","tag":"Oola","emblem":{"background":{"id":22,"colors":[11]},"foreground":{"id":289,"colors":[673,584]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical"]}}
+{"id":"C2C9BE5B-7A02-466A-8AD5-029D0F62A86D","name":"Les Adorateurs De Cleyaa","tag":"LAC","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":84,"colors":[125,125]},"flags":[]}}
+{"id":"4FBFE7F9-7E19-E511-A3E6-AC162DC0E835","name":"Equįnox","tag":"Eqx","emblem":{"background":{"id":13,"colors":[443]},"foreground":{"id":250,"colors":[137,673]},"flags":["FlipBackgroundHorizontal"]}}
+{"id":"56289F1F-80BD-E611-80D3-E4115BD7B405","name":"Curse Of The Ugly Quaggan","tag":"UGLY","emblem":{"background":{"id":10,"colors":[473]},"foreground":{"id":128,"colors":[9,443]},"flags":["FlipBackgroundVertical","FlipForegroundHorizontal","FlipForegroundVertical"]}}
+{"id":"7E55A99E-55D1-E711-81A1-02F07C1B9DEC","name":"Bunny Bandits","tag":"BUNY","emblem":{"background":{"id":1,"colors":[121]},"foreground":{"id":191,"colors":[443,93]},"flags":[]}}
+{"id":"E3374FE3-5415-4038-BF60-74795A4B989E","name":"Silver Fire","tag":"Silv","emblem":{"background":{"id":24,"colors":[11]},"foreground":{"id":147,"colors":[27,443]},"flags":[]}}
+{"id":"7ABB8042-D837-E611-80D3-E4115BE8BBE8","name":"The Guardians Of Virtue","tag":"TGOV","emblem":{"background":{"id":8,"colors":[473]},"foreground":{"id":164,"colors":[112,443]},"flags":[]}}
+{"id":"F9C9BAC6-DB74-E411-AF00-AC162DC028B5","name":"Warangels Army","tag":"WAR","emblem":{"background":{"id":23,"colors":[93]},"foreground":{"id":70,"colors":[146,443]},"flags":[]}}
+{"id":"570FAD04-BA01-E811-81A1-06AEA39922EA","name":"La Cour Des Brumes","tag":"LCB","emblem":{"background":{"id":21,"colors":[4]},"foreground":{"id":56,"colors":[71,473]},"flags":[]}}
+{"id":"94708760-9588-E311-BB46-80C16E7C6D65","name":"The Edge Of Oblivion","tag":"EDGE","emblem":{"background":{"id":22,"colors":[443]},"foreground":{"id":44,"colors":[71,443]},"flags":[]}}
+{"id":"145AE7B5-21E0-EA11-81AA-D66D0E22CAB6","name":"Not Canidae Again","tag":"FTW","emblem":{"background":{"id":2,"colors":[443]},"foreground":{"id":212,"colors":[673,443]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"FC85B528-A477-42B3-85D6-D77CBC8E0A90","name":"Goat Goat Goat Goat Goat Goats","tag":"GOAT","emblem":{"background":{"id":21,"colors":[146]},"foreground":{"id":105,"colors":[443,11]},"flags":[]}}
+{"id":"E32C9D01-94EA-4B7C-9033-AAE31FFA304D","name":"Marked Frostclaw","tag":"Claw","emblem":{"background":{"id":1,"colors":[93]},"foreground":{"id":19,"colors":[4,11]},"flags":["FlipForegroundHorizontal"]}}
+{"id":"64DD447A-9B66-4417-9232-9CF7FEE5D9A4","name":"Fellowship Of Polderslot","tag":"FoPs","emblem":{"background":{"id":25,"colors":[132]},"foreground":{"id":145,"colors":[146,443]},"flags":[]}}
+{"id":"00E17B52-A992-4B87-AD1D-A7645B193613","name":"Just Respawn","tag":"WP","emblem":{"background":{"id":23,"colors":[473]},"foreground":{"id":78,"colors":[473,137]},"flags":[]}}
+{"id":"48BE37B8-7AFF-E311-BB46-80C16E7C6D65","name":"Report Teemo","tag":"RTMO","emblem":{"background":{"id":27,"colors":[48]},"foreground":{"id":28,"colors":[340,617]},"flags":[]}}
+{"id":"7507ABE3-E784-E311-941E-AC162DAE5AD5","name":"Get In The Van Yo","tag":"PR","emblem":{"background":{"id":27,"colors":[584]},"foreground":{"id":269,"colors":[473,443]},"flags":[]}}
+{"id":"39DC44CB-EA64-4DCC-9C65-96EC14ED74FF","name":"A Mystical Guild","tag":"MYST","emblem":{"background":{"id":1,"colors":[443]},"foreground":{"id":164,"colors":[443,443]},"flags":[]}}
+{"id":"51DAD989-E154-EC11-81A9-971484D88F04","name":"Bagheera","tag":"KAA","emblem":{"background":{"id":12,"colors":[136]},"foreground":{"id":237,"colors":[443,112]},"flags":["FlipBackgroundHorizontal","FlipBackgroundVertical","FlipForegroundHorizontal"]}}
+{"id":"43368903-DA30-4B05-82CA-4D074616F23B","name":"Massive Alliance Extreme","tag":"MAX","emblem":{"background":{"id":21,"colors":[673]},"foreground":{"id":76,"colors":[146,9]},"flags":["FlipBackgroundHorizontal","FlipForegroundHorizontal"]}}
+{"id":"25A5FDAC-158B-E311-BC6C-AC162DC0070D","name":"The Ancients Of Gallifrey","tag":"TIME","emblem":{"background":{"id":22,"colors":[137]},"foreground":{"id":34,"colors":[443,27]},"flags":[]}}
+{"id":"EA47F396-E07D-4557-BD8B-64688C739436","name":"Fear the Night","tag":"FN","emblem":{"background":{"id":2,"colors":[673]},"foreground":{"id":116,"colors":[93,4]},"flags":[]}}
+{"id":"609C3960-DE44-E811-81A8-127619D996C0","name":"Birds Of Chess","tag":"ROOK","emblem":{"background":{"id":12,"colors":[9]},"foreground":{"id":139,"colors":[93,146]},"flags":[]}}
+{"id":"265ED818-C43A-49CD-9FB9-6C8680B12A7F","name":"Legends Of War","tag":"LoW","emblem":{"background":{"id":6,"colors":[473]},"foreground":{"id":40,"colors":[673,584]},"flags":[]}}
