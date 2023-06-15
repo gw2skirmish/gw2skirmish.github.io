@@ -41,9 +41,9 @@ worlds_id_eu=$(
 )
 
 make_list_matches() {
-    echo "<a href=\"#matches\">⚔️ Matches</a>"
-    echo "<a href=\"#worlds\">🌐 Worlds</a>"
-    echo "<a href=\"gw2claims.html\">🚩 gw2claims</a>"
+    echo "<a href=\"#matches\">Matches ⚔️</a>"
+    echo "<a href=\"#worlds\">Worlds 🌐</a>"
+    echo "<a href=\"gw2claims/\">GW2Claims 🚩</a>"
     echo "<div class=\"hidden\" id=\"matches\">"
     echo "<ul>"
     for match_id in $matches_id; do
@@ -55,8 +55,8 @@ make_list_matches() {
 
 make_list_worlds() {
     echo "<div class=\"hidden\" id=\"worlds\">"
-    echo "<a href=\"#na\">🇺🇸 North America</a>"
-    echo "<a href=\"#eu\">🇪🇺 Europe</a>"
+    echo "<a href=\"#na\">North America 🇺🇸</a>"
+    echo "<a href=\"#eu\">Europe 🇪🇺</a>"
     echo "</div>"
     echo "<div class=\"hidden\" id=\"na\">"
     li_world "$worlds_id_na"
@@ -368,9 +368,9 @@ make_index() {
 </head>
 <body class="main">
 <header>
-<a href="/"><h1 id="gw2skirmish">gw2skirmish</h1></a>
+<h1 id="gw2skirmish"><a href="/">GW2Skirmish 🏅</a></h1>
 <p>gw2skirmish displays information about Guild Wars 2 World vs. World matches with unique Homestretch feature.</p>
-<p>Help the project on <a href="https://github.com/MikaMika/gw2skirmish">GitHub</a>.</p>'
+<p>Help the project on <a href="https://github.com/gw2skirmish/gw2skirmish.github.io">GitHub</a>.</p>'
     echo "<nav>"
     make_list_matches
     make_list_worlds
@@ -381,9 +381,6 @@ make_index() {
     echo "</main>"
     echo "    <footer>
         <p>Last updated: $last_updated</p>
-        <p><a href=\"https://gw2skirmish-mikamika.vercel.app\">Alternative app version</a> using <a
-                href=\"https://flask.palletsprojects.com/en/2.2.x/\">Flask 2</a> on <a
-                href=\"https://vercel.com/\">Vercel</a></p>
         <p><a href=\"https://github.com/MikaMika/\">MikaMika</a> © 2023</p>
     </footer>"
     echo '</body>
