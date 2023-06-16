@@ -29,14 +29,29 @@ worlds_id_na=$(
   for world in $worlds_fmt
   do
     world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -lt 2000 ]; then echo "$world_id"; fi
+    if [ "$world_id" -lt 2000 ] && [ "$world_id" -gt 1000 ]; then echo "$world_id"; fi
   done
 )
 worlds_id_eu=$(
   for world in $worlds_fmt
   do
     world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -gt 2000 ]; then echo "$world_id"; fi
+    if [ "$world_id" -gt 2000 ] && [ "$world_id" -lt 3000 ]; then echo "$world_id"; fi
+  done
+)
+
+worlds_id_na_beta=$(
+  for world in $worlds_fmt
+  do
+    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+    if [ "$world_id" -lt 12000 ] && [ "$world_id" -gt 11000 ]; then echo "$world_id"; fi
+  done
+)
+worlds_id_eu_beta=$(
+  for world in $worlds_fmt
+  do
+    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+    if [ "$world_id" -gt 12000 ] && [ "$world_id" -lt 13000 ]; then echo "$world_id"; fi
   done
 )
 
@@ -59,9 +74,11 @@ make_list_worlds() {
     echo "<a href=\"#eu\">Europe 🇪🇺</a>"
     echo "</div>"
     echo "<div class=\"hidden\" id=\"na\">"
+    li_world "$worlds_id_na_beta"
     li_world "$worlds_id_na"
     echo "</div>"
     echo "<div class=\"hidden\" id=\"eu\">"
+    li_world "$worlds_id_eu_beta"
     li_world "$worlds_id_eu"
     echo "</div>"
 }
@@ -402,22 +419,22 @@ make_index \
 | sed s/:red:/🔴/g \
 | sed s/:blue:/🔵/g \
 | sed s/:green:/🟢/g \
-| sed "s/Seafarer's Rest\|Miller's Sound\|Ehmry Bay\|Sanctum of Rall/Dragon's Claw/g" \
-| sed "s/Yak's Bend\|Northern Shiverpeaks\|Gandara\|Vizunah Square/Skrittsburgh/g" \
-| sed "s/Fort Aspenwood\|Eredon Terrace\|Ruins of Surmia\|Drakkar Lake/First Haven/g" \
-| sed "s/Maguuma\|Ferguson's Crossing\|Ring of Fire\|Kodash/Phoenix Dawn/g" \
-| sed "s/Jade Quarry\|Devona's Rest\|Whiteside Ridge\|Abaddon's Mouth/Stonefall/g" \
-| sed "s/Anvil Rock\|Sea of Sorrows\|Fissure of Woe\|Fort Ranik/Moogooloo/g" \
-| sed "s/Henge of Denravi\|Blackgate\|Blacktide\|Arborstone/Seven Pines/g" \
-| sed "s/Borlis Pass\|Tarnished Coast\|Desolation\|Augury Rock/Titan's Staircase/g" \
-| sed "s/Stormbluff Isle\|Crystal Desert\|Vabbi\|Dzagonur/Giant's Rise/g" \
-| sed "s/Darkhaven\|Isle of Janthir\|Piken Square\|Baruch Bay/Reaper's Corridor/g" \
-| sed "s/Sorrow's Furnace\|Dragonbrand\|Underworld\|Riverside/Thornwatch/g" \
-| sed "s/Gate of Madness\|Kaineng\|Far Shiverpeaks\|Elona Reach/Griffonfall/g" \
-| sed "s/Gunnar's Hold/Silent Woods/g" \
-| sed "s/Jade Sea/Grenth's Door/g" \
-| sed "s/Aurora Glade/Fortune's Vale/g" \
+#| sed "s/Seafarer's Rest\|Miller's Sound\|Ehmry Bay\|Sanctum of Rall/Dragon's Claw/g" \
+#| sed "s/Yak's Bend\|Northern Shiverpeaks\|Gandara\|Vizunah Square/Skrittsburgh/g" \
+#| sed "s/Fort Aspenwood\|Eredon Terrace\|Ruins of Surmia\|Drakkar Lake/First Haven/g" \
+#| sed "s/Maguuma\|Ferguson's Crossing\|Ring of Fire\|Kodash/Phoenix Dawn/g" \
+#| sed "s/Jade Quarry\|Devona's Rest\|Whiteside Ridge\|Abaddon's Mouth/Stonefall/g" \
+#| sed "s/Anvil Rock\|Sea of Sorrows\|Fissure of Woe\|Fort Ranik/Moogooloo/g" \
+#| sed "s/Henge of Denravi\|Blackgate\|Blacktide\|Arborstone/Seven Pines/g" \
+#| sed "s/Borlis Pass\|Tarnished Coast\|Desolation\|Augury Rock/Titan's Staircase/g" \
+#| sed "s/Stormbluff Isle\|Crystal Desert\|Vabbi\|Dzagonur/Giant's Rise/g" \
+#| sed "s/Darkhaven\|Isle of Janthir\|Piken Square\|Baruch Bay/Reaper's Corridor/g" \
+#| sed "s/Sorrow's Furnace\|Dragonbrand\|Underworld\|Riverside/Thornwatch/g" \
+#| sed "s/Gate of Madness\|Kaineng\|Far Shiverpeaks\|Elona Reach/Griffonfall/g" \
+#| sed "s/Gunnar's Hold/Silent Woods/g" \
+#| sed "s/Jade Sea/Grenth's Door/g" \
+#| sed "s/Aurora Glade/Fortune's Vale/g" \
 > index.html
 
-rm worlds.json
+#rm worlds.json
 rm matches.json
