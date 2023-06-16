@@ -402,6 +402,21 @@ make_index \
 | sed s/:red:/🔴/g \
 | sed s/:blue:/🔵/g \
 | sed s/:green:/🟢/g \
+| sed "s/Seafarer's Rest\|Miller's Sound\|Ehmry Bay\|Sanctum of Rall/Dragon's Claw/g" \
+| sed "s/Yak's Bend\|Northern Shiverpeaks\|Gandara\|Vizunah Square/Skrittsburgh/g" \
+| sed "s/Fort Aspenwood\|Eredon Terrace\|Ruins of Surmia\|Drakkar Lake/First Haven/g" \
+| sed "s/Maguuma\|Ferguson's Crossing\|Ring of Fire\|Kodash/Phoenix Dawn/g" \
+| sed "s/Jade Quarry\|Devona's Rest\|Whiteside Ridge\|Abaddon's Mouth/Stonefall/g" \
+| sed "s/Anvil Rock\|Sea of Sorrows\|Fissure of Woe\|Fort Ranik/Moogooloo/g" \
+| sed "s/Henge of Denravi\|Blackgate\|Blacktide\|Arborstone/Seven Pines/g" \
+| sed "s/Borlis Pass\|Tarnished Coast\|Desolation\|Augury Rock/Titan's Staircase/g" \
+| sed "s/Stormbluff Isle\|Crystal Desert\|Vabbi\|Dzagonur/Giant's Rise/g" \
+| sed "s/Darkhaven\|Isle of Janthir\|Piken Square\|Baruch Bay/Reaper's Corridor/g" \
+| sed "s/Sorrow's Furnace\|Dragonbrand\|Underworld\|Riverside/Thornwatch/g" \
+| sed "s/Gate of Madness\|Kaineng\|Far Shiverpeaks\|Elona Reach/Griffonfall/g" \
+| sed "s/Gunnar's Hold/Silent Woods/g" \
+| sed "s/Jade Sea/Grenth's Door/g" \
+| sed "s/Aurora Glade/Fortune's Vale/g" \
 > index.html
 
 rm worlds.json
