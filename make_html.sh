@@ -254,14 +254,16 @@ match_info() {
     first_tie=$(( (vp_diff_remaining - first_vp_diff) / 2 ))
     first_secure=$((first_tie + 1))
     first_difficulty=$((100 * first_secure / vp_diff_remaining))
-
+    
+    world_min="999999"
     for world_id in $match_all_worlds
     do
       echo "<div class=\"world\" id=\"w$world_id\">"
+      if [ "$((world_min))" -gt "$((world_id))" ]; then world_min="$world_id"; fi || world_min="$world_id"
     done
 
     echo "<article class=\"hidden match\" id=\"m$match_id\">"
-    echo "<h2>$match_id <a href=\"#m$match_id\">🔗</a></h2>"
+    echo "<h2><a href=\"#m$match_id\">$match_id</a> <a href=\"https://wvwintel.com/#$world_min\">🗺️</a></h2>"
     echo "<p>Skirmishes completed: $skirmish_done/$SKIRMISH_TOTAL<br>"
     echo "Skirmishes left: $skirmish_remaining<br>"
     echo "Max earnable VP difference: $vp_diff_remaining</p>"
@@ -281,7 +283,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$first_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
+      echo "<b class=\"team$first_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a></b><br>"
     done
 
     echo "Victory Points: $first<br>"
@@ -316,7 +318,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$second_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
+      echo "<b class=\"team$second_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a></b><br>"
     done
     echo "Victory Points: $second<br>"
     echo "Victory Ratio: $second_victory_ratio%<br>"
@@ -348,7 +350,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$third_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
+      echo "<b class=\"team$third_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a></b><br>"
     done
     echo "Victory Points: $third<br>"
     echo "Victory Ratio: $third_victory_ratio%<br>"
