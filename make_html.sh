@@ -261,7 +261,7 @@ match_info() {
     done
 
     echo "<article class=\"hidden match\" id=\"m$match_id\">"
-    echo "<h2>$match_id<a href=\"#m$match_id\">[🔗]</a></h2>"
+    echo "<h2>$match_id <a href=\"#m$match_id\">🔗</a></h2>"
     echo "<p>Skirmishes completed: $skirmish_done/$SKIRMISH_TOTAL<br>"
     echo "Skirmishes left: $skirmish_remaining<br>"
     echo "Max earnable VP difference: $vp_diff_remaining</p>"
@@ -281,7 +281,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$first_color\">:$world_pop: $world_name<a href=\"#w$world_id\">[🔗]<a href=\"https://wvwintel.com/#$world_id\">[🗺️]</a></a></b><br>"
+      echo "<b class=\"team$first_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
     done
 
     echo "Victory Points: $first<br>"
@@ -316,7 +316,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$second_color\">:$world_pop: $world_name<a href=\"#w$world_id\">[🔗]</a></b><br>"
+      echo "<b class=\"team$second_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
     done
     echo "Victory Points: $second<br>"
     echo "Victory Ratio: $second_victory_ratio%<br>"
@@ -348,7 +348,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$third_color\">:$world_pop: $world_name<a href=\"#w$world_id\">[🔗]</a></b><br>"
+      echo "<b class=\"team$third_color\">:$world_pop: $world_name <a href=\"#w$world_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_id\">🗺️</a></b><br>"
     done
     echo "Victory Points: $third<br>"
     echo "Victory Ratio: $third_victory_ratio%<br>"
