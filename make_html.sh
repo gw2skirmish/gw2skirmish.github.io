@@ -316,7 +316,7 @@ match_info() {
         | grep ":$world_id" \
         | cut -d\" -f10
       )
-      echo "<b class=\"team$second_color\">:$world_pop: $world_name</b><br>"
+      echo "<b class=\"team$second_color\"><a href=\"#w$world_id\">:$world_pop: $world_name</a></b><br>"
     done
     echo "Victory Points: $second<br>"
     echo "Victory Ratio: $second_victory_ratio%<br>"
