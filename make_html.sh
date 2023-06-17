@@ -416,6 +416,7 @@ make_index \
 | sed s/:VeryHigh:/🟧/g \
 | sed s/:High:/🟨/g \
 | sed s/:Medium:/🟩/g \
+| sed s/:Beta:/🇧/g \
 | sed s/:red:/🔴/g \
 | sed s/:blue:/🔵/g \
 | sed s/:green:/🟢/g \
