@@ -29,7 +29,7 @@ worlds_id_na=$(
   for world in $worlds_fmt
   do
     world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -lt 2000 ] && [ "$world_id" -gt 1000 ]; then echo "$world_id"; fi
+    if [ "$world_id" -gt 1000 ] && [ "$world_id" -lt 2000 ]; then echo "$world_id"; fi
   done
 )
 worlds_id_eu=$(
@@ -44,7 +44,7 @@ worlds_id_na_beta=$(
   for world in $worlds_fmt
   do
     world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -lt 12000 ] && [ "$world_id" -gt 11000 ]; then echo "$world_id"; fi
+    if [ "$world_id" -gt 11000 ] && [ "$world_id" -lt 12000 ]; then echo "$world_id"; fi
   done
 )
 worlds_id_eu_beta=$(
@@ -88,13 +88,13 @@ li_world() {
     for world_id in ${1}; do
         world_name=$(
           ( for world in $worlds_fmt; do echo "$world"; done ) \
-          | grep "$world_id" \
+          | grep ":$world_id" \
           | cut -d\" -f6 \
           | tr "_" " "
         )
         world_pop=$(
           ( for world in $worlds_fmt; do echo "$world"; done ) \
-          | grep "$world_id" \
+          | grep ":$world_id" \
           | cut -d\" -f10
         )
         echo "<li><a href=\"#w$world_id\">$world_id :$world_pop: $world_name</a></li>"
@@ -272,13 +272,13 @@ match_info() {
     do
       world_name=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f6 \
         | tr "_" " "
       )
       world_pop=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f10
       )
       echo "<b class=\"team$first_color\">:$world_pop: $world_name</b><br>"
@@ -307,13 +307,13 @@ match_info() {
     do
       world_name=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f6 \
         | tr "_" " "
       )
       world_pop=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f10
       )
       echo "<b class=\"team$second_color\">:$world_pop: $world_name</b><br>"
@@ -339,13 +339,13 @@ match_info() {
     do
       world_name=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f6 \
         | tr "_" " "
       )
       world_pop=$(
         ( for world in $worlds_fmt; do echo "$world"; done ) \
-        | grep "$world_id" \
+        | grep ":$world_id" \
         | cut -d\" -f10
       )
       echo "<b class=\"team$third_color\">:$world_pop: $world_name</b><br>"
