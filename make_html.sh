@@ -263,7 +263,7 @@ match_info() {
     done
 
     echo "<article class=\"hidden match\" id=\"m$match_id\">"
-    echo "<h2><a href=\"#m$match_id\">$match_id</a> <a href=\"https://wvwintel.com/#$world_min\">🗺️</a></h2>"
+    echo "<h2>$match_id <a href=\"#m$match_id\">🔗</a> <a href=\"https://wvwintel.com/#$world_min\">🗺️</a></h2>"
     echo "<p>Skirmishes completed: $skirmish_done/$SKIRMISH_TOTAL<br>"
     echo "Skirmishes left: $skirmish_remaining<br>"
     echo "Max earnable VP difference: $vp_diff_remaining</p>"
