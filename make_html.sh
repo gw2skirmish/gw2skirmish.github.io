@@ -424,5 +424,5 @@ make_index \
 | sed s/:green:/🟢/g \
 > index.html
 
-#rm worlds.json
+rm worlds.json
 rm matches.json
