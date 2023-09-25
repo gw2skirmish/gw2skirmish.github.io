@@ -14,46 +14,86 @@ dl_worlds() {
     wget --quiet --output-document="worlds.json" "$GW2WORLDS?ids=all"
 }
 
-[ -f "worlds.json" ] || dl_worlds
-[ -f "matches.json" ] || dl_matches
-
-# For next level challenge: the all-in-one jq
-# matches=$(#   jq -c '.[]|.id,.all_worlds,.victory_points' matches.json)
-matches_id=$(jq -r '.[].id' matches.json)
-matches_all_worlds=$(jq -c '.[].all_worlds' matches.json)
-matches_victory_points=$(jq -c '.[].victory_points' matches.json)
-worlds=$(jq -c '.[]' worlds.json)
-
-worlds_fmt=$(echo "$worlds" | sed 's/{//g' | sed 's/} /}/g' | tr " " "_" | tr "}" " ")
-worlds_id_na=$(
-  for world in $worlds_fmt
-  do
-    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -gt 1000 ] && [ "$world_id" -lt 2000 ]; then echo "$world_id"; fi
-  done
-)
-worlds_id_eu=$(
-  for world in $worlds_fmt
-  do
-    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -gt 2000 ] && [ "$world_id" -lt 3000 ]; then echo "$world_id"; fi
-  done
-)
-
-worlds_id_na_beta=$(
-  for world in $worlds_fmt
-  do
-    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -gt 11000 ] && [ "$world_id" -lt 12000 ]; then echo "$world_id"; fi
-  done
-)
-worlds_id_eu_beta=$(
-  for world in $worlds_fmt
-  do
-    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
-    if [ "$world_id" -gt 12000 ] && [ "$world_id" -lt 13000 ]; then echo "$world_id"; fi
-  done
-)
+init_var() {
+	#[ -f "worlds.json" ] || dl_worlds
+	#[ -f "matches.json" ] || dl_matches
+	dl_worlds
+	dl_matches
+	
+	# jq stuff
+	#
+	#matches_id=$(jq -r '.[].id' matches.json)
+	#matches_all_worlds=$(jq -c '.[].all_worlds' matches.json)
+	#matches_victory_points=$(jq -c '.[].victory_points' matches.json)
+	#worlds=$(jq -c '.[]' worlds.json)
+	#
+	# For next level challenge: the all-in-one jq
+	# matches=$(#   jq -c '.[]|.id,.all_worlds,.victory_points' matches.json)
+	#
+	# Alternative with gnutils
+	matches_id=$(
+		cat matches.json \
+		| tr -d '\n ' \
+		| grep '".-."' -o \
+		| tr -d \"
+	)
+	# .{45,65} is for minimum 3 worlds and maximum 6
+	matches_all_worlds=$(
+		cat matches.json \
+		| tr -d '\n ' \
+		| egrep '\"all_worlds\".{45,65}deaths' -o \
+		| sed 's/,"deaths//' \
+		| sed 's/"all_worlds"://'
+	)
+	# .{29,35} is for minimum 1 digit score and maximum 3
+	matches_victory_points=$(
+		cat matches.json \
+		| tr -d '\n ' \
+		| egrep '"victory_points".{29,35},"skirmishes' -o \
+		| sed 's/"victory_points"://' \
+		| sed 's/,"skirmishes//'
+	)
+	worlds=$(
+		cat worlds.json \
+		| tr -d '\n' \
+		| sed 's/},/}\n/g' \
+		| sed 's/\s\s//g' \
+		| sed 's/:\s/:/g' \
+		| sed 's/^\[//' \
+		| sed 's/\]$/\n/g'
+	)
+	
+	worlds_fmt=$(echo "$worlds" | sed 's/{//g' | sed 's/} /}/g' | tr " " "_" | tr "}" " ")
+	worlds_id_na=$(
+	  for world in $worlds_fmt
+	  do
+	    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+	    if [ "$world_id" -gt 1000 ] && [ "$world_id" -lt 2000 ]; then echo "$world_id"; fi
+	  done
+	)
+	worlds_id_eu=$(
+	  for world in $worlds_fmt
+	  do
+	    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+	    if [ "$world_id" -gt 2000 ] && [ "$world_id" -lt 3000 ]; then echo "$world_id"; fi
+	  done
+	)
+	
+	worlds_id_na_beta=$(
+	  for world in $worlds_fmt
+	  do
+	    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+	    if [ "$world_id" -gt 11000 ] && [ "$world_id" -lt 12000 ]; then echo "$world_id"; fi
+	  done
+	)
+	worlds_id_eu_beta=$(
+	  for world in $worlds_fmt
+	  do
+	    world_id=$(echo "$world" | cut -d: -f2 | cut -d, -f1)
+	    if [ "$world_id" -gt 12000 ] && [ "$world_id" -lt 13000 ]; then echo "$world_id"; fi
+	  done
+	)
+}
 
 make_list_matches() {
     echo "<a href=\"#matches\">Matches ⚔️</a>"
@@ -408,6 +448,11 @@ make_index() {
 
 # exec
 
+#SCRIPT_DIR=$( cd -- "$( dirname -- "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )
+SCRIPT_DIR=$(dirname "$0")
+cd $SCRIPT_DIR
+
+init_var
 make_index \
 | sed s/'>1-'/'>🇺🇸 1-'/g \
 | sed s/'>2-'/'>🇪🇺 2-'/g \
@@ -424,5 +469,5 @@ make_index \
 | sed s/:green:/🟢/g \
 > index.html
 
-rm worlds.json
-rm matches.json
+#rm worlds.json
+#rm matches.json
