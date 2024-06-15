@@ -2,7 +2,7 @@
   {
     "id": 1001,
     "name": "Anvil Rock",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1002,
@@ -12,57 +12,57 @@
   {
     "id": 1003,
     "name": "Yak's Bend",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1004,
     "name": "Henge of Denravi",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1005,
     "name": "Maguuma",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 1006,
     "name": "Sorrow's Furnace",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1007,
     "name": "Gate of Madness",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 1008,
     "name": "Jade Quarry",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 1009,
     "name": "Fort Aspenwood",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 1010,
     "name": "Ehmry Bay",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1011,
     "name": "Stormbluff Isle",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1012,
     "name": "Darkhaven",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 1013,
     "name": "Sanctum of Rall",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1014,
@@ -72,17 +72,17 @@
   {
     "id": 1015,
     "name": "Isle of Janthir",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1016,
     "name": "Sea of Sorrows",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 1017,
     "name": "Tarnished Coast",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 1018,
@@ -92,22 +92,22 @@
   {
     "id": 1019,
     "name": "Blackgate",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 1020,
     "name": "Ferguson's Crossing",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1021,
     "name": "Dragonbrand",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 1022,
     "name": "Kaineng",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 1023,
@@ -122,17 +122,17 @@
   {
     "id": 2001,
     "name": "Fissure of Woe",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2002,
     "name": "Desolation",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2003,
     "name": "Gandara",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2004,
@@ -142,32 +142,32 @@
   {
     "id": 2005,
     "name": "Ring of Fire",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2006,
     "name": "Underworld",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2007,
     "name": "Far Shiverpeaks",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2008,
     "name": "Whiteside Ridge",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2009,
     "name": "Ruins of Surmia",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 2010,
     "name": "Seafarer's Rest",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 2011,
@@ -177,17 +177,17 @@
   {
     "id": 2012,
     "name": "Piken Square",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2013,
     "name": "Aurora Glade",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2014,
     "name": "Gunnar's Hold",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 2101,
@@ -202,7 +202,7 @@
   {
     "id": 2103,
     "name": "Augury Rock [FR]",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2104,
@@ -222,22 +222,22 @@
   {
     "id": 2202,
     "name": "Riverside [DE]",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2203,
     "name": "Elona Reach [DE]",
-    "population": "VeryHigh"
+    "population": "Medium"
   },
   {
     "id": 2204,
     "name": "Abaddon's Mouth [DE]",
-    "population": "High"
+    "population": "Medium"
   },
   {
     "id": 2205,
     "name": "Drakkar Lake [DE]",
-    "population": "Full"
+    "population": "Medium"
   },
   {
     "id": 2206,
@@ -252,141 +252,171 @@
   {
     "id": 2301,
     "name": "Baruch Bay [SP]",
-    "population": "VeryHigh"
+    "population": "Medium"
+  },
+  {
+    "id": 12001,
+    "name": "Skrittsburgh",
+    "population": "Medium"
+  },
+  {
+    "id": 12002,
+    "name": "Fortune's Vale",
+    "population": "Medium"
+  },
+  {
+    "id": 12003,
+    "name": "Silent Woods",
+    "population": "Medium"
+  },
+  {
+    "id": 12004,
+    "name": "Ettin's Back",
+    "population": "Medium"
+  },
+  {
+    "id": 12005,
+    "name": "Domain of Anguish",
+    "population": "Medium"
+  },
+  {
+    "id": 12006,
+    "name": "Palawadan",
+    "population": "Medium"
+  },
+  {
+    "id": 12007,
+    "name": "Bloodstone Gulch",
+    "population": "Medium"
+  },
+  {
+    "id": 12008,
+    "name": "Frost Citadel",
+    "population": "Medium"
+  },
+  {
+    "id": 12009,
+    "name": "Dragrimmar",
+    "population": "Medium"
+  },
+  {
+    "id": 12010,
+    "name": "Grenth's Door",
+    "population": "Medium"
+  },
+  {
+    "id": 12011,
+    "name": "Mirror of Lyssa",
+    "population": "Medium"
+  },
+  {
+    "id": 12012,
+    "name": "Melandru's Dome",
+    "population": "Medium"
+  },
+  {
+    "id": 12013,
+    "name": "Kormir's Library",
+    "population": "Medium"
+  },
+  {
+    "id": 12014,
+    "name": "Great House Aviary",
+    "population": "Medium"
+  },
+  {
+    "id": 12015,
+    "name": "Bava Nisos",
+    "population": "Medium"
+  },
+  {
+    "id": 12016,
+    "name": "Temple of Febe",
+    "population": "Medium"
+  },
+  {
+    "id": 12017,
+    "name": "Gyala Hatchery",
+    "population": "Medium"
+  },
+  {
+    "id": 12018,
+    "name": "Grekvelnn Burrows",
+    "population": "Medium"
   },
   {
     "id": 11001,
     "name": "Moogooloo",
-    "population": "Beta"
+    "population": "Medium"
   },
   {
     "id": 11002,
-    "name": "Titan's Staircase",
-    "population": "Beta"
+    "name": "Rall's Rest",
+    "population": "Medium"
   },
   {
     "id": 11003,
-    "name": "Skrittsburgh",
-    "population": "Beta"
+    "name": "Domain of Torment",
+    "population": "Medium"
   },
   {
     "id": 11004,
-    "name": "Seven Pines",
-    "population": "Beta"
+    "name": "Yohlon Haven",
+    "population": "Medium"
   },
   {
     "id": 11005,
-    "name": "Phoenix Dawn",
-    "population": "Beta"
+    "name": "Tombs of Drascir",
+    "population": "Medium"
   },
   {
     "id": 11006,
-    "name": "Thornwatch",
-    "population": "Beta"
+    "name": "Hall of Judgment",
+    "population": "Medium"
   },
   {
     "id": 11007,
-    "name": "Griffonfall",
-    "population": "Beta"
+    "name": "Throne of Balthazar",
+    "population": "Medium"
   },
   {
     "id": 11008,
-    "name": "Stonefall",
-    "population": "Beta"
+    "name": "Dwayna's Temple",
+    "population": "Medium"
   },
   {
     "id": 11009,
-    "name": "First Haven",
-    "population": "Beta"
+    "name": "Abbaddon's Prison",
+    "population": "Medium"
   },
   {
     "id": 11010,
-    "name": "Dragon's Claw",
-    "population": "Beta"
+    "name": "Ruined Cathedral of Blood",
+    "population": "Medium"
   },
   {
     "id": 11011,
-    "name": "Giant's Rise",
-    "population": "Beta"
+    "name": "Lutgardis Conservatory",
+    "population": "Medium"
   },
   {
     "id": 11012,
-    "name": "Reaper's Corridor",
-    "population": "Beta"
+    "name": "Mosswood",
+    "population": "Medium"
   },
   {
-    "id": 12001,
-    "name": "Moogooloo",
-    "population": "Beta"
+    "id": 11013,
+    "name": "Mithric Cliffs",
+    "population": "Medium"
   },
   {
-    "id": 12002,
-    "name": "Titan's Staircase",
-    "population": "Beta"
+    "id": 11014,
+    "name": "Lagula's Kraal",
+    "population": "Medium"
   },
   {
-    "id": 12003,
-    "name": "Skrittsburgh",
-    "population": "Beta"
-  },
-  {
-    "id": 12004,
-    "name": "Seven Pines",
-    "population": "Beta"
-  },
-  {
-    "id": 12005,
-    "name": "Phoenix Dawn",
-    "population": "Beta"
-  },
-  {
-    "id": 12006,
-    "name": "Thornwatch",
-    "population": "Beta"
-  },
-  {
-    "id": 12007,
-    "name": "Griffonfall",
-    "population": "Beta"
-  },
-  {
-    "id": 12008,
-    "name": "Stonefall",
-    "population": "Beta"
-  },
-  {
-    "id": 12009,
-    "name": "First Haven",
-    "population": "Beta"
-  },
-  {
-    "id": 12010,
-    "name": "Dragon's Claw",
-    "population": "Beta"
-  },
-  {
-    "id": 12011,
-    "name": "Giant's Rise",
-    "population": "Beta"
-  },
-  {
-    "id": 12012,
-    "name": "Reaper's Corridor",
-    "population": "Beta"
-  },
-  {
-    "id": 12013,
-    "name": "Fortune's Vale",
-    "population": "Beta"
-  },
-  {
-    "id": 12014,
-    "name": "Silent Woods",
-    "population": "Beta"
-  },
-  {
-    "id": 12015,
-    "name": "Grenth's Door",
-    "population": "Beta"
+    "id": 11015,
+    "name": "De Molish Post",
+    "population": "Medium"
   }
 ]
