@@ -1,0 +1,422 @@
+[
+  {
+    "id": 1001,
+    "name": "Anvil Rock",
+    "population": "Full"
+  },
+  {
+    "id": 1002,
+    "name": "Borlis Pass",
+    "population": "Full"
+  },
+  {
+    "id": 1003,
+    "name": "Yak's Bend",
+    "population": "Full"
+  },
+  {
+    "id": 1004,
+    "name": "Henge of Denravi",
+    "population": "Full"
+  },
+  {
+    "id": 1005,
+    "name": "Maguuma",
+    "population": "Full"
+  },
+  {
+    "id": 1006,
+    "name": "Sorrow's Furnace",
+    "population": "Full"
+  },
+  {
+    "id": 1007,
+    "name": "Gate of Madness",
+    "population": "Full"
+  },
+  {
+    "id": 1008,
+    "name": "Jade Quarry",
+    "population": "Full"
+  },
+  {
+    "id": 1009,
+    "name": "Fort Aspenwood",
+    "population": "Full"
+  },
+  {
+    "id": 1010,
+    "name": "Ehmry Bay",
+    "population": "Full"
+  },
+  {
+    "id": 1011,
+    "name": "Stormbluff Isle",
+    "population": "Full"
+  },
+  {
+    "id": 1012,
+    "name": "Darkhaven",
+    "population": "Full"
+  },
+  {
+    "id": 1013,
+    "name": "Sanctum of Rall",
+    "population": "Full"
+  },
+  {
+    "id": 1014,
+    "name": "Crystal Desert",
+    "population": "Full"
+  },
+  {
+    "id": 1015,
+    "name": "Isle of Janthir",
+    "population": "Full"
+  },
+  {
+    "id": 1016,
+    "name": "Sea of Sorrows",
+    "population": "Full"
+  },
+  {
+    "id": 1017,
+    "name": "Tarnished Coast",
+    "population": "Full"
+  },
+  {
+    "id": 1018,
+    "name": "Northern Shiverpeaks",
+    "population": "Full"
+  },
+  {
+    "id": 1019,
+    "name": "Blackgate",
+    "population": "Full"
+  },
+  {
+    "id": 1020,
+    "name": "Ferguson's Crossing",
+    "population": "Full"
+  },
+  {
+    "id": 1021,
+    "name": "Dragonbrand",
+    "population": "Full"
+  },
+  {
+    "id": 1022,
+    "name": "Kaineng",
+    "population": "Full"
+  },
+  {
+    "id": 1023,
+    "name": "Devona's Rest",
+    "population": "Full"
+  },
+  {
+    "id": 1024,
+    "name": "Eredon Terrace",
+    "population": "Full"
+  },
+  {
+    "id": 2001,
+    "name": "Fissure of Woe",
+    "population": "Full"
+  },
+  {
+    "id": 2002,
+    "name": "Desolation",
+    "population": "Full"
+  },
+  {
+    "id": 2003,
+    "name": "Gandara",
+    "population": "Full"
+  },
+  {
+    "id": 2004,
+    "name": "Blacktide",
+    "population": "Full"
+  },
+  {
+    "id": 2005,
+    "name": "Ring of Fire",
+    "population": "Full"
+  },
+  {
+    "id": 2006,
+    "name": "Underworld",
+    "population": "Full"
+  },
+  {
+    "id": 2007,
+    "name": "Far Shiverpeaks",
+    "population": "Full"
+  },
+  {
+    "id": 2008,
+    "name": "Whiteside Ridge",
+    "population": "Full"
+  },
+  {
+    "id": 2009,
+    "name": "Ruins of Surmia",
+    "population": "Full"
+  },
+  {
+    "id": 2010,
+    "name": "Seafarer's Rest",
+    "population": "Full"
+  },
+  {
+    "id": 2011,
+    "name": "Vabbi",
+    "population": "Full"
+  },
+  {
+    "id": 2012,
+    "name": "Piken Square",
+    "population": "Full"
+  },
+  {
+    "id": 2013,
+    "name": "Aurora Glade",
+    "population": "Full"
+  },
+  {
+    "id": 2014,
+    "name": "Gunnar's Hold",
+    "population": "Full"
+  },
+  {
+    "id": 2101,
+    "name": "Jade Sea",
+    "population": "Full"
+  },
+  {
+    "id": 2102,
+    "name": "Fort Ranik",
+    "population": "Full"
+  },
+  {
+    "id": 2103,
+    "name": "Augury Rock",
+    "population": "Full"
+  },
+  {
+    "id": 2104,
+    "name": "Vizunah Square",
+    "population": "Full"
+  },
+  {
+    "id": 2105,
+    "name": "Arborstone",
+    "population": "Full"
+  },
+  {
+    "id": 2201,
+    "name": "Kodash",
+    "population": "Full"
+  },
+  {
+    "id": 2202,
+    "name": "Riverside",
+    "population": "Full"
+  },
+  {
+    "id": 2203,
+    "name": "Elona Reach",
+    "population": "Full"
+  },
+  {
+    "id": 2204,
+    "name": "Abaddon's Mouth",
+    "population": "Full"
+  },
+  {
+    "id": 2205,
+    "name": "Drakkar Lake",
+    "population": "Full"
+  },
+  {
+    "id": 2206,
+    "name": "Miller's Sound",
+    "population": "Full"
+  },
+  {
+    "id": 2207,
+    "name": "Dzagonur",
+    "population": "Full"
+  },
+  {
+    "id": 2301,
+    "name": "Baruch Bay",
+    "population": "Full"
+  },
+  {
+    "id": 12001,
+    "name": "Skrittsburgh",
+    "population": "Full"
+  },
+  {
+    "id": 12002,
+    "name": "Fortune's Vale",
+    "population": "Full"
+  },
+  {
+    "id": 12003,
+    "name": "Silent Woods",
+    "population": "Full"
+  },
+  {
+    "id": 12004,
+    "name": "Ettin's Back",
+    "population": "Full"
+  },
+  {
+    "id": 12005,
+    "name": "Domain of Anguish",
+    "population": "Full"
+  },
+  {
+    "id": 12006,
+    "name": "Palawadan",
+    "population": "Full"
+  },
+  {
+    "id": 12007,
+    "name": "Bloodstone Gulch",
+    "population": "Full"
+  },
+  {
+    "id": 12008,
+    "name": "Frost Citadel",
+    "population": "Full"
+  },
+  {
+    "id": 12009,
+    "name": "Dragrimmar",
+    "population": "Full"
+  },
+  {
+    "id": 12010,
+    "name": "Grenth's Door",
+    "population": "Full"
+  },
+  {
+    "id": 12011,
+    "name": "Mirror of Lyssa",
+    "population": "Full"
+  },
+  {
+    "id": 12012,
+    "name": "Melandru's Dome",
+    "population": "Full"
+  },
+  {
+    "id": 12013,
+    "name": "Kormir's Library",
+    "population": "Full"
+  },
+  {
+    "id": 12014,
+    "name": "Great House Aviary",
+    "population": "Full"
+  },
+  {
+    "id": 12015,
+    "name": "Bava Nisos",
+    "population": "Full"
+  },
+  {
+    "id": 12016,
+    "name": "Temple of Febe",
+    "population": "Full"
+  },
+  {
+    "id": 12017,
+    "name": "Gyala Hatchery",
+    "population": "Full"
+  },
+  {
+    "id": 12018,
+    "name": "Grekvelnn Burrows",
+    "population": "Full"
+  },
+  {
+    "id": 11001,
+    "name": "Moogooloo",
+    "population": "Full"
+  },
+  {
+    "id": 11002,
+    "name": "Rall's Rest",
+    "population": "Full"
+  },
+  {
+    "id": 11003,
+    "name": "Domain of Torment",
+    "population": "Full"
+  },
+  {
+    "id": 11004,
+    "name": "Yohlon Haven",
+    "population": "Full"
+  },
+  {
+    "id": 11005,
+    "name": "Tombs of Drascir",
+    "population": "Full"
+  },
+  {
+    "id": 11006,
+    "name": "Hall of Judgment",
+    "population": "Full"
+  },
+  {
+    "id": 11007,
+    "name": "Throne of Balthazar",
+    "population": "Full"
+  },
+  {
+    "id": 11008,
+    "name": "Dwayna's Temple",
+    "population": "Full"
+  },
+  {
+    "id": 11009,
+    "name": "Abaddon's Prison",
+    "population": "Full"
+  },
+  {
+    "id": 11010,
+    "name": "Ruined Cathedral of Blood",
+    "population": "Full"
+  },
+  {
+    "id": 11011,
+    "name": "Lutgardis Conservatory",
+    "population": "Full"
+  },
+  {
+    "id": 11012,
+    "name": "Mosswood",
+    "population": "Full"
+  },
+  {
+    "id": 11013,
+    "name": "Mithric Cliffs",
+    "population": "Full"
+  },
+  {
+    "id": 11014,
+    "name": "Lagula's Kraal",
+    "population": "Full"
+  },
+  {
+    "id": 11015,
+    "name": "De Molish Post",
+    "population": "Full"
+  }
+]
